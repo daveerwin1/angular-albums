@@ -1,0 +1,3599 @@
+[{
+  "id": "4",
+  "title": "Ladies Invited",
+  "artist": "The J. Geils Band",
+  "genre": "Blues, Rock",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "5",
+  "title": "The Very Best of Gordon Lightfoot",
+  "artist": "Gordon Lightfoot",
+  "genre": "Folk",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "6",
+  "title": "Run",
+  "artist": "Awolnation",
+  "genre": "Electronic, Rock",
+  "decade": "2010s",
+  "year": "2015"
+}, {
+  "id": "7",
+  "title": "In Hearing of",
+  "artist": "Atomic Rooster",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1971"
+}, {
+  "id": "8",
+  "title": "Astra",
+  "artist": "Asia",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1985"
+}, {
+  "id": "9",
+  "title": "Alpha",
+  "artist": "Asia",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "10",
+  "title": "Asia",
+  "artist": "Asia",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "11",
+  "title": "Every One of Us",
+  "artist": "Eric Burdon & the Animals",
+  "genre": "Blues, Rock",
+  "decade": "1960s",
+  "year": "1968"
+}, {
+  "id": "12",
+  "title": "Hearts",
+  "artist": "America",
+  "genre": "Soft Rock",
+  "decade": "1970s",
+  "year": "1975"
+}, {
+  "id": "13",
+  "title": "Harbor",
+  "artist": "America",
+  "genre": "Soft Rock",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "14",
+  "title": "Silent Letter",
+  "artist": "America",
+  "genre": "Soft Rock",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "15",
+  "title": "Ecstatic Trance",
+  "artist": "A Life Once Lost",
+  "genre": "Heavy Metal",
+  "decade": "2010s",
+  "year": "2012"
+}, {
+  "id": "16",
+  "title": "Now and Forever",
+  "artist": "Air Supply",
+  "genre": "Soft Rock",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "17",
+  "title": "The One That You Love",
+  "artist": "Air Supply",
+  "genre": "Soft Rock",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "18",
+  "title": "Lost in Love",
+  "artist": "Air Supply",
+  "genre": "Soft Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "19",
+  "title": "Visitors",
+  "artist": "ABBA",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "20",
+  "title": "Arrival",
+  "artist": "ABBA",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1970s",
+  "year": "1976"
+}, {
+  "id": "21",
+  "title": "Voulez-Vous",
+  "artist": "ABBA",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "22",
+  "title": "The Album",
+  "artist": "ABBA",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "23",
+  "title": "Untethered Moon",
+  "artist": "Built to Spill",
+  "genre": "Rock",
+  "decade": "2010s",
+  "year": "2015"
+}, {
+  "id": "24",
+  "title": "Born to Run",
+  "artist": "Bruce Springsteen",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1975"
+}, {
+  "id": "25",
+  "title": "Hold Out",
+  "artist": "Jackson Browne",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "26",
+  "title": "Eat to the Beat",
+  "artist": "Blondie",
+  "genre": "Female Vocalist, Rock",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "27",
+  "title": "Parallel Lines",
+  "artist": "Blondie",
+  "genre": "Female Vocalist, Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "28",
+  "title": "Baby I'm a want You",
+  "artist": "Bread",
+  "genre": "Soft Rock",
+  "decade": "1970s",
+  "year": "1972"
+}, {
+  "id": "29",
+  "title": "Guitar Man",
+  "artist": "Bread",
+  "genre": "Soft Rock",
+  "decade": "1970s",
+  "year": "1972"
+}, {
+  "id": "30",
+  "title": "Touch",
+  "artist": "Laura Branigan",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1980s",
+  "year": "1987"
+}, {
+  "id": "31",
+  "title": "Slippery When Wet",
+  "artist": "Bon Jovi",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1986"
+}, {
+  "id": "32",
+  "title": "Those Once Loyal",
+  "artist": "Bolt Thrower",
+  "genre": "Heavy Metal, Death Metal",
+  "decade": "2000s",
+  "year": "2005"
+}, {
+  "id": "33",
+  "title": "Tyranny and Mutation",
+  "artist": "Blue Oyster Cult",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "34",
+  "title": "Cultosaurus Erectus",
+  "artist": "Blue Oyster Cult",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "35",
+  "title": "On Your Feet or On Your Knees",
+  "artist": "Blue Oyster Cult",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1975"
+}, {
+  "id": "36",
+  "title": "Mirrors",
+  "artist": "Blue Oyster Cult",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "37",
+  "title": "Blue Oyster Cult",
+  "artist": "Blue Oyster Cult",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1972"
+}, {
+  "id": "38",
+  "title": "Technical Ecstasy",
+  "artist": "Black Sabbath",
+  "genre": "Heavy Metal",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "39",
+  "title": "Black Sabbath",
+  "artist": "Black Sabbath",
+  "genre": "Heavy Metal",
+  "decade": "1970s",
+  "year": "1970"
+}, {
+  "id": "40",
+  "title": "Never Say Die",
+  "artist": "Black Sabbath",
+  "genre": "Heavy Metal",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "41",
+  "title": "Sabbath Bloody Sabbath",
+  "artist": "Black Sabbath",
+  "genre": "Heavy Metal",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "42",
+  "title": "Bon Jovi",
+  "artist": "Bon Jovi",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1984"
+}, {
+  "id": "43",
+  "title": "7800° Fahrenheit",
+  "artist": "Bon Jovi",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1985"
+}, {
+  "id": "44",
+  "title": "Black Oak Arkansas",
+  "artist": "Black Oak Arkansas",
+  "genre": "Southern Rock",
+  "decade": "1970s",
+  "year": "1971"
+}, {
+  "id": "45",
+  "title": "Pleasure Victim",
+  "artist": "Berlin",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "46",
+  "title": "In the Heat of the Night",
+  "artist": "Pat Benatar",
+  "genre": "Female Vocalist, Rock",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "47",
+  "title": "Get Nervous",
+  "artist": "Pat Benatar",
+  "genre": "Female Vocalist, Rock",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "48",
+  "title": "Precious Time",
+  "artist": "Pat Benatar",
+  "genre": "Female Vocalist, Rock",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "49",
+  "title": "Crimes of Passion",
+  "artist": "Pat Benatar",
+  "genre": "Female Vocalist, Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "50",
+  "title": "Seven and the Hard Way",
+  "artist": "Pat Benatar",
+  "genre": "Female Vocalist, Rock",
+  "decade": "1980s",
+  "year": "1985"
+}, {
+  "id": "51",
+  "title": "Live From Earth",
+  "artist": "Pat Benatar",
+  "genre": "Female Vocalist, Rock",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "52",
+  "title": "Main Course",
+  "artist": "Bee Gees",
+  "genre": "Pop",
+  "decade": "1970s",
+  "year": "1975"
+}, {
+  "id": "53",
+  "title": "Gold Volume 1",
+  "artist": "Bee Gees",
+  "genre": "Pop",
+  "decade": "1970s",
+  "year": "1976"
+}, {
+  "id": "54",
+  "title": "Here at Last... Bee Gees... Live",
+  "artist": "Bee Gees",
+  "genre": "Pop",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "55",
+  "title": "Rubber Soul",
+  "artist": "The Beatles",
+  "genre": "Rock",
+  "decade": "1960s",
+  "year": "1965"
+}, {
+  "id": "56",
+  "title": "Help Original Motion Picture Soundtrack",
+  "artist": "The Beatles",
+  "genre": "Rock",
+  "decade": "1960s",
+  "year": "1965"
+}, {
+  "id": "57",
+  "title": "The Madcap Laughs\/Barrett",
+  "artist": "Syd Barrett",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "58",
+  "title": "Manic Monday",
+  "artist": "Bangles",
+  "genre": "Female Vocalist, Pop, Rock",
+  "decade": "1980s",
+  "year": "1985"
+}, {
+  "id": "59",
+  "title": "Different Light",
+  "artist": "Bangles",
+  "genre": "Female Vocalist, Pop, Rock",
+  "decade": "1980s",
+  "year": "1985"
+}, {
+  "id": "60",
+  "title": "All Over the Place",
+  "artist": "Bangles",
+  "genre": "Female Vocalist, Pop, Rock",
+  "decade": "1980s",
+  "year": "1984"
+}, {
+  "id": "61",
+  "title": "Bananarama",
+  "artist": "Bananarama",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1980s",
+  "year": "1984"
+}, {
+  "id": "62",
+  "title": "The Head on the Door",
+  "artist": "The Cure",
+  "genre": "Pop, Rock",
+  "decade": "1980s",
+  "year": "1985"
+}, {
+  "id": "63",
+  "title": "Concert - The Cure Live",
+  "artist": "The Cure",
+  "genre": "Pop, Rock",
+  "decade": "1980s",
+  "year": "1984"
+}, {
+  "id": "64",
+  "title": "Disintegration",
+  "artist": "The Cure",
+  "genre": "Pop, Rock",
+  "decade": "1980s",
+  "year": "1989"
+}, {
+  "id": "65",
+  "title": "Kiss Me Kiss Me Kiss Me",
+  "artist": "The Cure",
+  "genre": "Pop, Rock",
+  "decade": "1980s",
+  "year": "1987"
+}, {
+  "id": "66",
+  "title": "The Walk",
+  "artist": "The Cure",
+  "genre": "Pop, Rock",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "67",
+  "title": "Crosby, Stills & Nash",
+  "artist": "Crosby, Stills & Nash",
+  "genre": "Rock, Folk",
+  "decade": "1960s",
+  "year": "1969"
+}, {
+  "id": "68",
+  "title": "I Got a Name",
+  "artist": "Jim Croce",
+  "genre": "Rock, Folk",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "69",
+  "title": "Life and Times",
+  "artist": "Jim Croce",
+  "genre": "Rock, Folk",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "70",
+  "title": "Is a Very Funny Fellow...Right!",
+  "artist": "Bill Cosby",
+  "genre": "Comedy",
+  "decade": "1960s",
+  "year": "1963"
+}, {
+  "id": "71",
+  "title": "Stop the World",
+  "artist": "Patsy Cline",
+  "genre": "Female Vocalist, Country",
+  "decade": "1960s",
+  "year": "1960's (probably)"
+}, {
+  "id": "72",
+  "title": "A Portrait of Patsy Cline",
+  "artist": "Patsy Cline",
+  "genre": "Female Vocalist, Country",
+  "decade": "1960s",
+  "year": "1964"
+}, {
+  "id": "73",
+  "title": "I Can't Forget You",
+  "artist": "Patsy Cline",
+  "genre": "Female Vocalist, Country",
+  "decade": "1960s",
+  "year": "1966"
+}, {
+  "id": "74",
+  "title": "Wrangler",
+  "artist": "Patsy Cline",
+  "genre": "Female Vocalist, Country",
+  "decade": "1960s",
+  "year": "1962"
+}, {
+  "id": "75",
+  "title": "The Heart You Break",
+  "artist": "Patsy Cline",
+  "genre": "Female Vocalist, Country",
+  "decade": "1960s",
+  "year": "1969"
+}, {
+  "id": "76",
+  "title": "Night Songs",
+  "artist": "Cinderella",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1986"
+}, {
+  "id": "77",
+  "title": "Verities & Balderdash",
+  "artist": "Harry Chapin",
+  "genre": "Soft Rock, Folk",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "78",
+  "title": "Voyeur",
+  "artist": "Kim Carnes",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "79",
+  "title": "Excreted Alive at BBC",
+  "artist": "Carcass",
+  "genre": "Heavy Metal, Death Metal",
+  "decade": "",
+  "year": "unknown"
+}, {
+  "id": "80",
+  "title": "Melophobia",
+  "artist": "Cage the Elephant",
+  "genre": "Rock",
+  "decade": "2010s",
+  "year": "2013"
+}, {
+  "id": "81",
+  "title": "Silver",
+  "artist": "Johnny Cash",
+  "genre": "Country",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "82",
+  "title": "The Walls of a Prison",
+  "artist": "Johnny Cash",
+  "genre": "Country",
+  "decade": "1970s",
+  "year": "1970"
+}, {
+  "id": "83",
+  "title": "Orange Blossom Special",
+  "artist": "Johnny Cash",
+  "genre": "Country",
+  "decade": "1960s",
+  "year": "1965"
+}, {
+  "id": "84",
+  "title": "Everybody Loves a Nut",
+  "artist": "Johnny Cash",
+  "genre": "Country",
+  "decade": "1960s",
+  "year": "1966"
+}, {
+  "id": "85",
+  "title": "Hello I'm Johnny Cash",
+  "artist": "Johnny Cash",
+  "genre": "Country",
+  "decade": "1970s",
+  "year": "1970"
+}, {
+  "id": "86",
+  "title": "Happiness is You",
+  "artist": "Johnny Cash",
+  "genre": "Country",
+  "decade": "1960s",
+  "year": "1966"
+}, {
+  "id": "87",
+  "title": "Any Old Wind That Blows",
+  "artist": "Johnny Cash",
+  "genre": "Country",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "88",
+  "title": "Songs of Our Soil",
+  "artist": "Johnny Cash",
+  "genre": "Country",
+  "decade": "1950s",
+  "year": "1959"
+}, {
+  "id": "89",
+  "title": "Back to the Front",
+  "artist": "Entombed A.D.",
+  "genre": "Heavy Metal, Death Metal",
+  "decade": "2010s",
+  "year": "2014"
+}, {
+  "id": "90",
+  "title": "Out of This World",
+  "artist": "Europe",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1988"
+}, {
+  "id": "91",
+  "title": "Slow Train Coming",
+  "artist": "Bob Dylan",
+  "genre": "Soft Rock, Folk",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "92",
+  "title": "Seven and the Ragged Tiger",
+  "artist": "Duran Duran",
+  "genre": "Pop, Rock",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "93",
+  "title": "The Doors",
+  "artist": "The Doors",
+  "genre": "Rock",
+  "decade": "1960s",
+  "year": "1967"
+}, {
+  "id": "94",
+  "title": "Minute by Minute",
+  "artist": "The Doobie Brothers",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "95",
+  "title": "Under Lock and Key",
+  "artist": "Dokken",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1985"
+}, {
+  "id": "96",
+  "title": "Beast From the East",
+  "artist": "Dokken",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1988"
+}, {
+  "id": "97",
+  "title": "Back for the Attack",
+  "artist": "Dokken",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1987"
+}, {
+  "id": "98",
+  "title": "Just the Way I Am",
+  "artist": "Dolly Parton",
+  "genre": "Female Vocalist, Country",
+  "decade": "1970s",
+  "year": "1972"
+}, {
+  "id": "99",
+  "title": "Burlap & Satin",
+  "artist": "Dolly Parton",
+  "genre": "Female Vocalist, Country",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "100",
+  "title": "Dire Straits",
+  "artist": "Dire Straits",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "101",
+  "title": "Johnathan Livingston Seagull OST",
+  "artist": "Neil Diamond",
+  "genre": "Pop, Rock",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "102",
+  "title": "On the Way to the Sky",
+  "artist": "Neil Diamond",
+  "genre": "Pop, Rock",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "103",
+  "title": "Just for You",
+  "artist": "Neil Diamond",
+  "genre": "Pop, Rock",
+  "decade": "1960s",
+  "year": "1967"
+}, {
+  "id": "104",
+  "title": "You Don't Bring Me Flowers",
+  "artist": "Neil Diamond",
+  "genre": "Pop, Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "105",
+  "title": "The Jazz Singer",
+  "artist": "Neil Diamond",
+  "genre": "Pop, Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "106",
+  "title": "Pyromania",
+  "artist": "Def Leppard",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "107",
+  "title": "Toxic Waste",
+  "artist": "Death in Action",
+  "genre": "Heavy Metal, Thrash Metal",
+  "decade": "1980s",
+  "year": "1988"
+}, {
+  "id": "108",
+  "title": "Scream Bloody Gore",
+  "artist": "Death",
+  "genre": "Heavy Metal, Death Metal",
+  "decade": "1980s",
+  "year": "1987"
+}, {
+  "id": "109",
+  "title": "Leprosy",
+  "artist": "Death",
+  "genre": "Heavy Metal, Death Metal",
+  "decade": "1980s",
+  "year": "1988"
+}, {
+  "id": "110",
+  "title": "I Forgot More Than You'll Ever Know",
+  "artist": "Skeeter Davis",
+  "genre": "Female Vocalist, Country",
+  "decade": "1960s",
+  "year": "1964"
+}, {
+  "id": "111",
+  "title": "Blueberry Hill",
+  "artist": "Skeeter Davis",
+  "genre": "Female Vocalist, Country",
+  "decade": "1960s",
+  "year": "1965"
+}, {
+  "id": "112",
+  "title": "Out for Blood",
+  "artist": "Lita Ford",
+  "genre": "Female Vocalist, Heavy Metal",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "113",
+  "title": "4",
+  "artist": "Foreigner",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "114",
+  "title": "Phoenix",
+  "artist": "Dan Fogelberg",
+  "genre": "Soft Rock",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "115",
+  "title": "Captured Angel",
+  "artist": "Dan Fogelberg",
+  "genre": "Soft Rock",
+  "decade": "1970s",
+  "year": "1975"
+}, {
+  "id": "116",
+  "title": "Nether Lands",
+  "artist": "Dan Fogelberg",
+  "genre": "Soft Rock",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "117",
+  "title": "Souvenirs",
+  "artist": "Dan Fogelberg",
+  "genre": "Soft Rock",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "118",
+  "title": "Bare Trees",
+  "artist": "Fleetwood Mac",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1972"
+}, {
+  "id": "119",
+  "title": "Mirage",
+  "artist": "Fleetwood Mac",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "120",
+  "title": "Rumors",
+  "artist": "Fleetwood Mac",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "121",
+  "title": "Tusk",
+  "artist": "Fleetwood Mac",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "122",
+  "title": "Ella Fitzgerald Sings the Rodgers and Hart Song Book",
+  "artist": "Ella Fitzgerald",
+  "genre": "Female Vocalist, Jazz",
+  "decade": "1950s",
+  "year": "1956"
+}, {
+  "id": "123",
+  "title": "One Night",
+  "artist": "Arlo Guthrie",
+  "genre": "Rock, Folk",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "124",
+  "title": "Alice's Restaurant",
+  "artist": "Arlo Guthrie",
+  "genre": "Rock, Folk",
+  "decade": "1960s",
+  "year": "1967"
+}, {
+  "id": "125",
+  "title": "Vacation",
+  "artist": "Gogo's",
+  "genre": "Female Vocalist, Pop, Rock",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "126",
+  "title": "Beauty and the Beat",
+  "artist": "Gogo's",
+  "genre": "Female Vocalist, Pop, Rock",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "127",
+  "title": "Out of the Blue",
+  "artist": "Debbie Gibson",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1980s",
+  "year": "1987"
+}, {
+  "id": "128",
+  "title": "Blow Your Face Out",
+  "artist": "The J. Geils Band",
+  "genre": "Blues, Rock",
+  "decade": "1970s",
+  "year": "1976"
+}, {
+  "id": "129",
+  "title": "Showtime!",
+  "artist": "The J. Geils Band",
+  "genre": "Blues, Rock",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "130",
+  "title": "The Morning After",
+  "artist": "The J. Geils Band",
+  "genre": "Blues, Rock",
+  "decade": "1970s",
+  "year": "1971"
+}, {
+  "id": "131",
+  "title": "Monkey Island",
+  "artist": "The J. Geils Band",
+  "genre": "Blues, Rock",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "132",
+  "title": "Freeze Frame",
+  "artist": "The J. Geils Band",
+  "genre": "Blues, Rock",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "133",
+  "title": "Sanctuary",
+  "artist": "The J. Geils Band",
+  "genre": "Blues, Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "134",
+  "title": "Love Stinks",
+  "artist": "The J. Geils Band",
+  "genre": "Blues, Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "135",
+  "title": "Full House",
+  "artist": "The J. Geils Band",
+  "genre": "Blues, Rock",
+  "decade": "1970s",
+  "year": "1972"
+}, {
+  "id": "136",
+  "title": "Bloodshot",
+  "artist": "The J. Geils Band",
+  "genre": "Blues, Rock",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "137",
+  "title": "Marvin Gaye Live!",
+  "artist": "Marvin Gaye",
+  "genre": "R & B",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "138",
+  "title": "The Best of the James Gang Featuring Joe Walsh",
+  "artist": "James Gang Featuring Joe Walsh",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "139",
+  "title": "Point of Entry",
+  "artist": "Judas Priest",
+  "genre": "Heavy Metal",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "140",
+  "title": "Screaming for Vengeance",
+  "artist": "Judas Priest",
+  "genre": "Heavy Metal",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "141",
+  "title": "Rocka Rolla",
+  "artist": "Judas Priest",
+  "genre": "Heavy Metal",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "142",
+  "title": "Street Talk",
+  "artist": "Steve Perry",
+  "genre": "Pop, Rock",
+  "decade": "1980s",
+  "year": "1984"
+}, {
+  "id": "143",
+  "title": "Look Into the Future",
+  "artist": "Journey",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1976"
+}, {
+  "id": "144",
+  "title": "Escape",
+  "artist": "Journey",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "145",
+  "title": "Captured",
+  "artist": "Journey",
+  "genre": "Rock",
+  "decade": "",
+  "year": "1981"
+}, {
+  "id": "146",
+  "title": "Infinity",
+  "artist": "Journey",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "147",
+  "title": "Frontiers",
+  "artist": "Journey",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "148",
+  "title": "Raised on Radio",
+  "artist": "Journey",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1986"
+}, {
+  "id": "149",
+  "title": "Believe",
+  "artist": "The Jets",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "150",
+  "title": "The Jets",
+  "artist": "The Jets",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1980s",
+  "year": "1985"
+}, {
+  "id": "151",
+  "title": "Freedom at Point Zero",
+  "artist": "Jefferson Starship",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "152",
+  "title": "Control",
+  "artist": "Janet Jackson",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1980s",
+  "year": "1986"
+}, {
+  "id": "153",
+  "title": "Seventh Son of a Seventh Son",
+  "artist": "Iron Maiden",
+  "genre": "Heavy Metal",
+  "decade": "1980s",
+  "year": "1988"
+}, {
+  "id": "154",
+  "title": "Somewhere in Time",
+  "artist": "Iron Maiden",
+  "genre": "Heavy Metal",
+  "decade": "1980s",
+  "year": "1986"
+}, {
+  "id": "155",
+  "title": "The Swing",
+  "artist": "Inxs",
+  "genre": "Pop",
+  "decade": "1980s",
+  "year": "1984"
+}, {
+  "id": "156",
+  "title": "The Infernal Storm",
+  "artist": "Incantation",
+  "genre": "Heavy Metal, Death Metal",
+  "decade": "2000s",
+  "year": "2000"
+}, {
+  "id": "157",
+  "title": "Stars",
+  "artist": "Janis Ian",
+  "genre": "Female Vocalist, Soft Rock, Folk",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "158",
+  "title": "Aftertones",
+  "artist": "Janis Ian",
+  "genre": "Female Vocalist, Soft Rock, Folk",
+  "decade": "1970s",
+  "year": "1975"
+}, {
+  "id": "159",
+  "title": "Sports",
+  "artist": "Huey Lewis and the News",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "160",
+  "title": "Breaking Point",
+  "artist": "Heretic",
+  "genre": "Heavy Metal, Thrash Metal",
+  "decade": "1980s",
+  "year": "1988"
+}, {
+  "id": "161",
+  "title": "Magazine",
+  "artist": "Heart",
+  "genre": "Female Vocalist, Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "162",
+  "title": "George Harrison",
+  "artist": "George Harrison",
+  "genre": "Pop, Rock, Soft Rock, Folk",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "163",
+  "title": "War Babies",
+  "artist": "Hall & Oates",
+  "genre": "Pop, Rock, Soft Rock",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "164",
+  "title": "Big Bam Boom",
+  "artist": "Hall & Oates",
+  "genre": "Pop, Rock, Soft Rock",
+  "decade": "1980s",
+  "year": "1984"
+}, {
+  "id": "165",
+  "title": "Bigger Than Both of Us",
+  "artist": "Hall & Oates",
+  "genre": "Pop, Rock, Soft Rock",
+  "decade": "1970s",
+  "year": "1976"
+}, {
+  "id": "166",
+  "title": "Along the Red Ledge",
+  "artist": "Hall & Oates",
+  "genre": "Pop, Rock, Soft Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "167",
+  "title": "Abandoned Luncheonette",
+  "artist": "Hall & Oates",
+  "genre": "Pop, Rock, Soft Rock",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "168",
+  "title": "X-Static",
+  "artist": "Hall & Oates",
+  "genre": "Pop, Rock, Soft Rock",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "169",
+  "title": "Lyin', Cheatin', Woman Chasin', Honky Tonkin', Whiskey Drinkin' You",
+  "artist": "Loretta Lynn",
+  "genre": "Female Vocalist, Country",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "170",
+  "title": "Don't Come Home a Drinkin' (With Lovin' on Your Mind)",
+  "artist": "Loretta Lynn",
+  "genre": "Female Vocalist, Country",
+  "decade": "1960s",
+  "year": "1967"
+}, {
+  "id": "171",
+  "title": "Alone With You",
+  "artist": "Loretta Lynn",
+  "genre": "Female Vocalist, Country",
+  "decade": "1970s",
+  "year": "1972"
+}, {
+  "id": "172",
+  "title": "Somebody Somewhere",
+  "artist": "Loretta Lynn",
+  "genre": "Female Vocalist, Country",
+  "decade": "1970s",
+  "year": "1976"
+}, {
+  "id": "173",
+  "title": "Fist City",
+  "artist": "Loretta Lynn",
+  "genre": "Female Vocalist, Country",
+  "decade": "1960s",
+  "year": "1968"
+}, {
+  "id": "174",
+  "title": "Two's a Party",
+  "artist": "Conway Twitty & Loretta Lynn",
+  "genre": "Female Vocalist, Country",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "175",
+  "title": "Double Fantasy",
+  "artist": "John Lennon",
+  "genre": "Pop, Rock, Soft Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "176",
+  "title": "In Through the Out Door",
+  "artist": "Led Zeppelin",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "177",
+  "title": "Presence",
+  "artist": "Led Zeppelin",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1976"
+}, {
+  "id": "178",
+  "title": "IV",
+  "artist": "Led Zeppelin",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1971"
+}, {
+  "id": "179",
+  "title": "Alive!",
+  "artist": "Kiss",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1975"
+}, {
+  "id": "180",
+  "title": "Muswell Hillbillies",
+  "artist": "The Kinks",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1971"
+}, {
+  "id": "181",
+  "title": "Sleepwalker",
+  "artist": "The Kinks",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "182",
+  "title": "Soap Opera",
+  "artist": "The Kinks",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1975"
+}, {
+  "id": "183",
+  "title": "Think Visual",
+  "artist": "The Kinks",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1986"
+}, {
+  "id": "184",
+  "title": "Wrap Around Joy",
+  "artist": "Carole King",
+  "genre": "Female Vocalist, Pop, Soft Rock",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "185",
+  "title": "I'll Always Love You",
+  "artist": "Anne Murray",
+  "genre": "Female Vocalist, Country",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "186",
+  "title": "Highly Prized Possession",
+  "artist": "Anne Murray",
+  "genre": "Female Vocalist, Country",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "187",
+  "title": "Welcome to the Real World",
+  "artist": "Mr. Mister",
+  "genre": "Pop",
+  "decade": "1980s",
+  "year": "1985"
+}, {
+  "id": "188",
+  "title": "No Sleep 'til Hammersmith",
+  "artist": "Motorhead",
+  "genre": "Heavy Metal",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "189",
+  "title": "Ace of Spades",
+  "artist": "Motorhead",
+  "genre": "Heavy Metal",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "190",
+  "title": "On Parole",
+  "artist": "Motorhead",
+  "genre": "Heavy Metal",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "191",
+  "title": "Headquarters",
+  "artist": "The Monkees",
+  "genre": "Pop, Rock",
+  "decade": "1960s",
+  "year": "1967"
+}, {
+  "id": "192",
+  "title": "Sad Sappy Sucker",
+  "artist": "Modest Mouse",
+  "genre": "Rock",
+  "decade": "2000s",
+  "year": "2001"
+}, {
+  "id": "193",
+  "title": "The Fruit That Ate Itself",
+  "artist": "Modest Mouse",
+  "genre": "Rock",
+  "decade": "1990s",
+  "year": "1997"
+}, {
+  "id": "194",
+  "title": "Interstate 8",
+  "artist": "Modest Mouse",
+  "genre": "Rock",
+  "decade": "1990s",
+  "year": "1996"
+}, {
+  "id": "195",
+  "title": "Strangers to Ourselves",
+  "artist": "Modest Mouse",
+  "genre": "Rock",
+  "decade": "2010s",
+  "year": "2015"
+}, {
+  "id": "196",
+  "title": "Last Tango in Paris Live 2012",
+  "artist": "Ministry",
+  "genre": "Industrial",
+  "decade": "2010s",
+  "year": "2012"
+}, {
+  "id": "197",
+  "title": "Blue Sky - Night Thunder",
+  "artist": "Michael Murphey",
+  "genre": "Country",
+  "decade": "1970s",
+  "year": "1975"
+}, {
+  "id": "198",
+  "title": "So far, so good.. so what!",
+  "artist": "Megadeth",
+  "genre": "Heavy Metal",
+  "decade": "1980s",
+  "year": "1988"
+}, {
+  "id": "199",
+  "title": "Christine McVie",
+  "artist": "Christine McVie",
+  "genre": "Female Vocalist, Pop, Soft Rock",
+  "decade": "1980s",
+  "year": "1984"
+}, {
+  "id": "200",
+  "title": "Wings at the Speed of Sound",
+  "artist": "Paul McCartney and Wings",
+  "genre": "Pop, Rock, Soft Rock",
+  "decade": "1970s",
+  "year": "1976"
+}, {
+  "id": "201",
+  "title": "McCartney",
+  "artist": "Paul McCartney",
+  "genre": "Pop, Rock, Soft Rock",
+  "decade": "1970s",
+  "year": "1970"
+}, {
+  "id": "202",
+  "title": "Venus and Mars",
+  "artist": "Paul McCartney and Wings",
+  "genre": "Pop, Rock, Soft Rock",
+  "decade": "1970s",
+  "year": "1975"
+}, {
+  "id": "203",
+  "title": "Back to the Egg",
+  "artist": "Paul McCartney and Wings",
+  "genre": "Pop, Rock, Soft Rock",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "204",
+  "title": "Wings Over America",
+  "artist": "Paul McCartney and Wings",
+  "genre": "Pop, Rock, Soft Rock",
+  "decade": "1970s",
+  "year": "1976"
+}, {
+  "id": "205",
+  "title": "London Town",
+  "artist": "Paul McCartney and Wings",
+  "genre": "Pop, Rock, Soft Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "206",
+  "title": "Red Rose Speedway",
+  "artist": "Paul McCartney and Wings",
+  "genre": "Pop, Rock, Soft Rock",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "207",
+  "title": "Tug of War",
+  "artist": "Paul McCartney",
+  "genre": "Pop, Rock, Soft Rock",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "208",
+  "title": "Band on the Run",
+  "artist": "Paul McCartney and Wings",
+  "genre": "Pop, Rock, Soft Rock",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "209",
+  "title": "Richard Marx",
+  "artist": "Richard Marx",
+  "genre": "Pop, Soft Rock",
+  "decade": "1980s",
+  "year": "1987"
+}, {
+  "id": "210",
+  "title": "A Wild and Crazy Guy",
+  "artist": "Steve Martin",
+  "genre": "Comedy",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "211",
+  "title": "Monday, Monday",
+  "artist": "The Mamas & the Papas",
+  "genre": "Female Vocalist, Rock, Soft Rock, Folk",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "212",
+  "title": "Trilogy",
+  "artist": "Yngwie J. Malmsteen",
+  "genre": "Heavy Metal",
+  "decade": "1980s",
+  "year": "1986"
+}, {
+  "id": "213",
+  "title": "Marching Out",
+  "artist": "Yngwie J. Malmsteen",
+  "genre": "Heavy Metal",
+  "decade": "1980s",
+  "year": "1985"
+}, {
+  "id": "214",
+  "title": "Odyssey",
+  "artist": "Yngwie J. Malmsteen",
+  "genre": "Heavy Metal",
+  "decade": "1980s",
+  "year": "1988"
+}, {
+  "id": "215",
+  "title": "Man Grows Cold",
+  "artist": "Malefaction",
+  "genre": "Heavy Metal, Death Metal",
+  "decade": "1990s",
+  "year": "1998"
+}, {
+  "id": "216",
+  "title": "True Blue",
+  "artist": "Madonna",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1980s",
+  "year": "1986"
+}, {
+  "id": "217",
+  "title": "Like a Virgin",
+  "artist": "Madonna",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1980s",
+  "year": "1984"
+}, {
+  "id": "218",
+  "title": "Nilsson Schmilsson",
+  "artist": "Harry Nilsson",
+  "genre": "Pop, Soft Rock",
+  "decade": "1970s",
+  "year": "1971"
+}, {
+  "id": "219",
+  "title": "Bella Donna",
+  "artist": "Stevie Nicks",
+  "genre": "Female Vocalist, Pop, Soft Rock",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "220",
+  "title": "Rock a Little",
+  "artist": "Stevie Nicks",
+  "genre": "Female Vocalist, Pop, Soft Rock",
+  "decade": "1980s",
+  "year": "1985"
+}, {
+  "id": "221",
+  "title": "The Wild Heart",
+  "artist": "Stevie Nicks",
+  "genre": "Female Vocalist, Pop, Soft Rock",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "222",
+  "title": "The Other Side of the Mirror",
+  "artist": "Stevie Nicks",
+  "genre": "Female Vocalist, Pop, Soft Rock",
+  "decade": "1980s",
+  "year": "1989"
+}, {
+  "id": "223",
+  "title": "Have You Never Been Mellow",
+  "artist": "Olivia Newton-John",
+  "genre": "Female Vocalist, Pop, Country",
+  "decade": "1970s",
+  "year": "1975"
+}, {
+  "id": "224",
+  "title": "If You Love Me, Let Me Know",
+  "artist": "Olivia Newton-John",
+  "genre": "Female Vocalist, Pop, Country",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "225",
+  "title": "Come on Over",
+  "artist": "Olivia Newton-John",
+  "genre": "Female Vocalist, Pop, Country",
+  "decade": "1970s",
+  "year": "1976"
+}, {
+  "id": "226",
+  "title": "Totally Hot",
+  "artist": "Olivia Newton-John",
+  "genre": "Female Vocalist, Pop, Country",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "227",
+  "title": "Xanadu OST",
+  "artist": "Olivia Newton-John and Electric Light Orchestra",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "228",
+  "title": "Making a Good Thing Better",
+  "artist": "Olivia Newton-John",
+  "genre": "Female Vocalist, Pop, Country",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "229",
+  "title": "Physical",
+  "artist": "Olivia Newton-John",
+  "genre": "Female Vocalist, Pop, Country",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "230",
+  "title": "Let Me Be There",
+  "artist": "Olivia Newton-John",
+  "genre": "Female Vocalist, Pop, Country",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "231",
+  "title": "Don't Stop Believin'",
+  "artist": "Olivia Newton-John",
+  "genre": "Female Vocalist, Pop, Country",
+  "decade": "1970s",
+  "year": "1976"
+}, {
+  "id": "232",
+  "title": "Clearly Love",
+  "artist": "Olivia Newton-John",
+  "genre": "Female Vocalist, Pop, Country",
+  "decade": "1970s",
+  "year": "1975"
+}, {
+  "id": "233",
+  "title": "If Not For You",
+  "artist": "Olivia Newton-John",
+  "genre": "Female Vocalist, Pop, Country",
+  "decade": "1970s",
+  "year": "1971"
+}, {
+  "id": "234",
+  "title": "Soul Kiss",
+  "artist": "Olivia Newton-John",
+  "genre": "Female Vocalist, Pop, Country",
+  "decade": "1980s",
+  "year": "1985"
+}, {
+  "id": "235",
+  "title": "Juice",
+  "artist": "Juice Newton",
+  "genre": "Female Vocalist, Country",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "236",
+  "title": "Inhale\/Exhale",
+  "artist": "Nasum",
+  "genre": "Heavy Metal, Death Metal",
+  "decade": "1990s",
+  "year": "1998"
+}, {
+  "id": "237",
+  "title": "Americana",
+  "artist": "Leon Russell",
+  "genre": "Country",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "238",
+  "title": "Permanent Waves",
+  "artist": "Rush",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "239",
+  "title": "A Farewell to Kings",
+  "artist": "Rush",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "240",
+  "title": "Grace Under Pressure",
+  "artist": "Rush",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1984"
+}, {
+  "id": "241",
+  "title": "Signals",
+  "artist": "Rush",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "242",
+  "title": "Caress of Steel",
+  "artist": "Rush",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1975"
+}, {
+  "id": "243",
+  "title": "Power Windows",
+  "artist": "Rush",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1985"
+}, {
+  "id": "244",
+  "title": "Archives",
+  "artist": "Rush",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "245",
+  "title": "Eat 'Em and Smile",
+  "artist": "David Lee Roth",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1986"
+}, {
+  "id": "246",
+  "title": "Living in the USA",
+  "artist": "Linda Ronstadt",
+  "genre": "Female Vocalist, Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "247",
+  "title": "Simple Dreams",
+  "artist": "Linda Ronstadt",
+  "genre": "Female Vocalist, Rock",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "248",
+  "title": "Hi Infidelity",
+  "artist": "Reo Speedwagon",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "249",
+  "title": "A Decade of Rock and Roll 1970 to 1980",
+  "artist": "Reo Speedwagon",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "250",
+  "title": "Ratt",
+  "artist": "Ratt",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "251",
+  "title": "Out of the Cellar",
+  "artist": "Ratt",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1984"
+}, {
+  "id": "252",
+  "title": "Invasion of Your Privacy",
+  "artist": "Ratt",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1985"
+}, {
+  "id": "253",
+  "title": "Reach for the Sky",
+  "artist": "Ratt",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1988"
+}, {
+  "id": "254",
+  "title": "Dancing Undercover",
+  "artist": "Ratt",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1986"
+}, {
+  "id": "255",
+  "title": "The Game",
+  "artist": "Queen",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "256",
+  "title": "Quarterflash",
+  "artist": "Quarterflash",
+  "genre": "Female Vocalist, Pop, Rock",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "257",
+  "title": "Puzzle",
+  "artist": "Puzzle",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "258",
+  "title": "Home",
+  "artist": "Procol Harum",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1970"
+}, {
+  "id": "259",
+  "title": "The Satanic Satanist",
+  "artist": "Portugal. The Man",
+  "genre": "Pop",
+  "decade": "2000s",
+  "year": "2009"
+}, {
+  "id": "260",
+  "title": "Live at Montreux",
+  "artist": "Jean-Luc Ponty",
+  "genre": "Jazz",
+  "decade": "1970s",
+  "year": "1976"
+}, {
+  "id": "261",
+  "title": "Ummagumma",
+  "artist": "Pink Floyd",
+  "genre": "Rock",
+  "decade": "1960s",
+  "year": "1969"
+}, {
+  "id": "262",
+  "title": "The Wall",
+  "artist": "Pink Floyd",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "263",
+  "title": "The Final Cut",
+  "artist": "Pink Floyd",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "264",
+  "title": "A Saucerful of Secrets",
+  "artist": "Pink Floyd",
+  "genre": "Rock",
+  "decade": "1960s",
+  "year": "1968"
+}, {
+  "id": "265",
+  "title": "Pac-Man Fever",
+  "artist": "Buckner & Garcia",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "266",
+  "title": "The Lion and the Cobra",
+  "artist": "Sinead O'Connor",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1980s",
+  "year": "1987"
+}, {
+  "id": "267",
+  "title": "Troy (The Phoenix From the Flame) Remixes",
+  "artist": "Sinead O'Connor",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1990s",
+  "year": "1990"
+}, {
+  "id": "268",
+  "title": "Show No Mercy",
+  "artist": "Slayer",
+  "genre": "Heavy Metal, Thrash Metal",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "269",
+  "title": "South of Heaven",
+  "artist": "Slayer",
+  "genre": "Heavy Metal, Thrash Metal",
+  "decade": "1980s",
+  "year": "1988"
+}, {
+  "id": "270",
+  "title": "Diabolus in Musica",
+  "artist": "Slayer",
+  "genre": "Heavy Metal, Thrash Metal",
+  "decade": "1990s",
+  "year": "1998"
+}, {
+  "id": "271",
+  "title": "World Painted Blood",
+  "artist": "Slayer",
+  "genre": "Heavy Metal, Thrash Metal",
+  "decade": "2000s",
+  "year": "2009"
+}, {
+  "id": "272",
+  "title": "Year of Sunday",
+  "artist": "Seals & Crofts",
+  "genre": "Soft Rock",
+  "decade": "1970s",
+  "year": "1972"
+}, {
+  "id": "273",
+  "title": "Get Closer",
+  "artist": "Seals & Crofts",
+  "genre": "Soft Rock",
+  "decade": "1970s",
+  "year": "1976"
+}, {
+  "id": "274",
+  "title": "I'll Play for You",
+  "artist": "Seals & Crofts",
+  "genre": "Soft Rock",
+  "decade": "1970s",
+  "year": "1975"
+}, {
+  "id": "275",
+  "title": "Diamond Girl",
+  "artist": "Seals & Crofts",
+  "genre": "Soft Rock",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "276",
+  "title": "Unborn Child",
+  "artist": "Seals & Crofts",
+  "genre": "Soft Rock",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "277",
+  "title": "Summer Breeze",
+  "artist": "Seals & Crofts",
+  "genre": "Soft Rock",
+  "decade": "1970s",
+  "year": "1972"
+}, {
+  "id": "278",
+  "title": "Takin' It Easy",
+  "artist": "Seals & Crofts",
+  "genre": "Soft Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "279",
+  "title": "In Trance\/Fly to the Rainbow",
+  "artist": "Scorpions",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "280",
+  "title": "Animal Magnetism",
+  "artist": "Scorpions",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "281",
+  "title": "Best of Scorpions",
+  "artist": "Scorpions",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "282",
+  "title": "Virgin Killer",
+  "artist": "Scorpions",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1976"
+}, {
+  "id": "283",
+  "title": "Lonesome Crow",
+  "artist": "Scorpions",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1972"
+}, {
+  "id": "284",
+  "title": "Blackout",
+  "artist": "Scorpions",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "285",
+  "title": "Love at First Sting",
+  "artist": "Scorpions",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1984"
+}, {
+  "id": "286",
+  "title": "World Wide Live",
+  "artist": "Scorpions",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1985"
+}, {
+  "id": "287",
+  "title": "Savage Amusement",
+  "artist": "Scorpions",
+  "genre": "Rock",
+  "decade": "",
+  "year": "1988"
+}, {
+  "id": "288",
+  "title": "Hyperactive",
+  "artist": "Savage",
+  "genre": "Heavy Metal",
+  "decade": "1980s",
+  "year": "1985"
+}, {
+  "id": "289",
+  "title": "End of the Century",
+  "artist": "Ramones",
+  "genre": "Punk Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "290",
+  "title": "Physical Graffiti",
+  "artist": "Led Zeppelin",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1975"
+}, {
+  "id": "291",
+  "title": "Three Imaginary Boys",
+  "artist": "The Cure",
+  "genre": "Pop, Rock",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "292",
+  "title": "Cosi Fan Tutti Frutti",
+  "artist": "Squeeze",
+  "genre": "Pop",
+  "decade": "1980s",
+  "year": "1985"
+}, {
+  "id": "293",
+  "title": "Paris",
+  "artist": "Supertramp",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "294",
+  "title": "Breakfast in America",
+  "artist": "Supertramp",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "295",
+  "title": "Crisis? What Crisis?",
+  "artist": "Supertramp",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1975"
+}, {
+  "id": "296",
+  "title": "...Famous Last Words...",
+  "artist": "Supertramp",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "297",
+  "title": "Crime of the Century",
+  "artist": "Supertramp",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "298",
+  "title": "Even in the Quietest Moments...",
+  "artist": "Supertramp",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "299",
+  "title": "Join the Army",
+  "artist": "Suicidal Tendencies",
+  "genre": "Punk Rock, Thrash Metal",
+  "decade": "1980s",
+  "year": "1987"
+}, {
+  "id": "300",
+  "title": "Crystal Ball",
+  "artist": "Styx",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1976"
+}, {
+  "id": "301",
+  "title": "Pieces of Eight",
+  "artist": "Styx",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "302",
+  "title": "The Grand Illusion",
+  "artist": "Styx",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "303",
+  "title": "Cornerstone",
+  "artist": "Styx",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "304",
+  "title": "Blondes Have More Fun",
+  "artist": "Rod Stewart",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "305",
+  "title": "Tea for the Tillerman",
+  "artist": "Cat Stevens",
+  "genre": "Soft Rock, Folk",
+  "decade": "1970s",
+  "year": "1970"
+}, {
+  "id": "306",
+  "title": "Foreigner",
+  "artist": "Cat Stevens",
+  "genre": "Soft Rock, Folk",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "307",
+  "title": "Ringo",
+  "artist": "Ringo Starr",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "308",
+  "title": "Catching the Sun",
+  "artist": "Spyro Gyra",
+  "genre": "Jazz",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "309",
+  "title": "Freetime",
+  "artist": "Spyro Gyra",
+  "genre": "Jazz",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "310",
+  "title": "Breakout",
+  "artist": "Spyro Gyra",
+  "genre": "Jazz",
+  "decade": "1980s",
+  "year": "1986"
+}, {
+  "id": "311",
+  "title": "Sings Her Best",
+  "artist": "Sammi Smith",
+  "genre": "Female Vocalist, Country",
+  "decade": "1970s",
+  "year": "1970"
+}, {
+  "id": "312",
+  "title": "More Parts Per Million",
+  "artist": "The Thermals",
+  "genre": "Punk Rock",
+  "decade": "2000s",
+  "year": "2003"
+}, {
+  "id": "313",
+  "title": "The Body the Blood the Machine",
+  "artist": "The Thermals",
+  "genre": "Punk Rock",
+  "decade": "2000s",
+  "year": "2006"
+}, {
+  "id": "314",
+  "title": "We Disappear",
+  "artist": "The Thermals",
+  "genre": "Punk Rock",
+  "decade": "2010s",
+  "year": "2016"
+}, {
+  "id": "315",
+  "title": "Cyan",
+  "artist": "Three Dog Night",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "316",
+  "title": "Hard Labor",
+  "artist": "Three Dog Night",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "317",
+  "title": "Suitable for Framing",
+  "artist": "Three Dog Night",
+  "genre": "Rock",
+  "decade": "1960s",
+  "year": "1969"
+}, {
+  "id": "318",
+  "title": "Sweet Baby James",
+  "artist": "James Taylor",
+  "genre": "Soft Rock, Folk",
+  "decade": "1970s",
+  "year": "1970"
+}, {
+  "id": "319",
+  "title": "One Man Dog",
+  "artist": "James Taylor",
+  "genre": "Soft Rock, Folk",
+  "decade": "1970s",
+  "year": "1972"
+}, {
+  "id": "320",
+  "title": "In the Pocket",
+  "artist": "James Taylor",
+  "genre": "Soft Rock, Folk",
+  "decade": "1970s",
+  "year": "1976"
+}, {
+  "id": "321",
+  "title": "JT",
+  "artist": "James Taylor",
+  "genre": "Soft Rock, Folk",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "322",
+  "title": "Mud Slide Slim and the Blue Horizon",
+  "artist": "James Taylor",
+  "genre": "Soft Rock, Folk",
+  "decade": "1970s",
+  "year": "1971"
+}, {
+  "id": "323",
+  "title": "Walking Man",
+  "artist": "James Taylor",
+  "genre": "Soft Rock, Folk",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "324",
+  "title": "Flag",
+  "artist": "James Taylor",
+  "genre": "Soft Rock, Folk",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "325",
+  "title": "Faster Than the Speed of Night",
+  "artist": "Bonnie Tyler",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "326",
+  "title": "Storms of Life",
+  "artist": "Randy Travis",
+  "genre": "Country",
+  "decade": "1980s",
+  "year": "1986"
+}, {
+  "id": "327",
+  "title": "The Low Spark of High Heeled Boys",
+  "artist": "Traffic",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1971"
+}, {
+  "id": "328",
+  "title": "Turn Back",
+  "artist": "Toto",
+  "genre": "Pop, Rock",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "329",
+  "title": "Toto",
+  "artist": "Toto",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "330",
+  "title": "Into the Gap",
+  "artist": "Thompson Twins",
+  "genre": "Pop",
+  "decade": "1980s",
+  "year": "1984"
+}, {
+  "id": "331",
+  "title": "Make It Big",
+  "artist": "Wham!",
+  "genre": "Pop",
+  "decade": "1980s",
+  "year": "1984"
+}, {
+  "id": "332",
+  "title": "Call of the West",
+  "artist": "Wall of Voodoo",
+  "genre": "Pop",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "333",
+  "title": "Attempted Mustache",
+  "artist": "Loudon Wainwright III",
+  "genre": "Folk",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "334",
+  "title": "Final Exam",
+  "artist": "Loudon Wainwright III",
+  "genre": "Folk",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "335",
+  "title": "The Velvet Underground & Nico",
+  "artist": "The Velvet Underground",
+  "genre": "Rock",
+  "decade": "1960s",
+  "year": "1967"
+}, {
+  "id": "336",
+  "title": "Solitude Standing",
+  "artist": "Suzanne Vega",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1980s",
+  "year": "1987"
+}, {
+  "id": "337",
+  "title": "Van Halen",
+  "artist": "Van Halen",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "338",
+  "title": "Fair Warning",
+  "artist": "Van Halen",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "339",
+  "title": "Women and Children First",
+  "artist": "Van Halen",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "340",
+  "title": "1984",
+  "artist": "Van Halen",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1984"
+}, {
+  "id": "341",
+  "title": "Down to Earth",
+  "artist": "The Undisputed Truth",
+  "genre": "Funk",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "342",
+  "title": "No Place to Run",
+  "artist": "UFO",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "343",
+  "title": "Common Bird Songs",
+  "artist": "Donald J. Borror",
+  "genre": "Various",
+  "decade": "1960s",
+  "year": "1967"
+}, {
+  "id": "344",
+  "title": "Elektra Records January Releases",
+  "artist": "Various",
+  "genre": "Various",
+  "decade": "1970s",
+  "year": "1972"
+}, {
+  "id": "345",
+  "title": "4 Bassoon Concertos",
+  "artist": "Vivaldi",
+  "genre": "Classical",
+  "decade": "1950s",
+  "year": "1958"
+}, {
+  "id": "346",
+  "title": "La Guitarra De Mexico",
+  "artist": "Antonio Bribiesca",
+  "genre": "Classical",
+  "decade": "",
+  "year": "unknown"
+}, {
+  "id": "347",
+  "title": "Til Eulenspiegel's Merry Pranks, Op. 28 & Death and Transfiguration, Op. 24",
+  "artist": "Richard Strauss",
+  "genre": "Classical",
+  "decade": "",
+  "year": "unknown"
+}, {
+  "id": "348",
+  "title": "Woodstock Two",
+  "artist": "Various",
+  "genre": "Various",
+  "decade": "1970s",
+  "year": "1971"
+}, {
+  "id": "349",
+  "title": "Overnite Sensation",
+  "artist": "Frank Zappa",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "350",
+  "title": "Rust Never Sleeps",
+  "artist": "Neil Young",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "351",
+  "title": "Comes a Time",
+  "artist": "Neil Young",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "352",
+  "title": "Songbird",
+  "artist": "Jesse Colin Young",
+  "genre": "Rock, Folk",
+  "decade": "1970s",
+  "year": "1975"
+}, {
+  "id": "353",
+  "title": "Tales From Topographic Oceans",
+  "artist": "Yes",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "354",
+  "title": "Fragile",
+  "artist": "Yes",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1971"
+}, {
+  "id": "355",
+  "title": "Big Generator",
+  "artist": "Yes",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1987"
+}, {
+  "id": "356",
+  "title": "Time and a Word",
+  "artist": "Yes",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1970"
+}, {
+  "id": "357",
+  "title": "90125",
+  "artist": "Yes",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "358",
+  "title": "Relayer",
+  "artist": "Yes",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "359",
+  "title": "Tormato",
+  "artist": "Yes",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "360",
+  "title": "The Yes Album",
+  "artist": "Yes",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1971"
+}, {
+  "id": "361",
+  "title": "Yesshows",
+  "artist": "Yes",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "362",
+  "title": "Yessongs",
+  "artist": "Yes",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "363",
+  "title": "Going for the One",
+  "artist": "Yes",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "364",
+  "title": "Drama",
+  "artist": "Yes",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "365",
+  "title": "Innervisions",
+  "artist": "Stevie Wonder",
+  "genre": "Funk",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "366",
+  "title": "All Hell's Breaking Loose Down at Little Kathy Wilson's Place!",
+  "artist": "Wolfsbane",
+  "genre": "Heavy Metal",
+  "decade": "1990s",
+  "year": "1990"
+}, {
+  "id": "367",
+  "title": "The Progressive Blues Experiment",
+  "artist": "Johnny Winter",
+  "genre": "Blues, Rock",
+  "decade": "1960s",
+  "year": "1968"
+}, {
+  "id": "368",
+  "title": "14 More of Hank Williams' Greatest Hits - Vol. III",
+  "artist": "Hank Williams",
+  "genre": "Country",
+  "decade": "1960s",
+  "year": "1963"
+}, {
+  "id": "369",
+  "title": "Strange Days",
+  "artist": "The Doors",
+  "genre": "Rock",
+  "decade": "1960s",
+  "year": "1967"
+}, {
+  "id": "370",
+  "title": "Wish You Were Here",
+  "artist": "Pink Floyd",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1975"
+}, {
+  "id": "371",
+  "title": "Flash Gordon",
+  "artist": "Queen",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "372",
+  "title": "Traffic",
+  "artist": "Traffic",
+  "genre": "Rock",
+  "decade": "1960s",
+  "year": "1968"
+}, {
+  "id": "373",
+  "title": "Animalization",
+  "artist": "The Animals",
+  "genre": "Blues, Rock",
+  "decade": "1960s",
+  "year": "1966"
+}, {
+  "id": "374",
+  "title": "Children of the World",
+  "artist": "Bee Gees",
+  "genre": "Pop",
+  "decade": "1970s",
+  "year": "1976"
+}, {
+  "id": "375",
+  "title": "Lives in the Balance",
+  "artist": "Jackson Browne",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1986"
+}, {
+  "id": "376",
+  "title": "Conqueror",
+  "artist": "Jesu",
+  "genre": "Rock, Industrial, Heavy Metal",
+  "decade": "2000s",
+  "year": "2007"
+}, {
+  "id": "377",
+  "title": "Departure",
+  "artist": "Journey",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "378",
+  "title": "Ancient Melodies of the Future",
+  "artist": "Built to Spill",
+  "genre": "Rock",
+  "decade": "2000s",
+  "year": "2001"
+}, {
+  "id": "379",
+  "title": "Metal Health",
+  "artist": "Quiet Riot",
+  "genre": "Rock, Heavy Metal",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "380",
+  "title": "Meddle",
+  "artist": "Pink Floyd",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1971"
+}, {
+  "id": "381",
+  "title": "Agents of Fortune",
+  "artist": "Blue Oyster Cult",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1976"
+}, {
+  "id": "382",
+  "title": "Nightmares...and Other Tales from the Vinyl Jungle",
+  "artist": "The J. Geils Band",
+  "genre": "Blues, Rock",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "383",
+  "title": "Tokyo Tapes",
+  "artist": "Scorpions",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "384",
+  "title": "Beauty on a Back Street",
+  "artist": "Hall & Oates",
+  "genre": "Pop, Rock, Soft Rock",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "385",
+  "title": "Darkness on the Edge of Town",
+  "artist": "Bruce Springsteen",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "386",
+  "title": "Mad, Bad, and Dangerous To Know",
+  "artist": "Dead or Alive",
+  "genre": "Pop",
+  "decade": "1980s",
+  "year": "1986"
+}, {
+  "id": "387",
+  "title": "Love Life",
+  "artist": "Berlin",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1980s",
+  "year": "1984"
+}, {
+  "id": "388",
+  "title": "Dead Ringer",
+  "artist": "Meat Loaf",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "389",
+  "title": "Fleetwood Mac",
+  "artist": "Fleetwood Mac",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1975"
+}, {
+  "id": "390",
+  "title": "Give the People What they Want",
+  "artist": "The Kinks",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "391",
+  "title": "Rock HArd",
+  "artist": "Suzi Quatro",
+  "genre": "Female Vocalist, Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "392",
+  "title": "View From the Ground",
+  "artist": "America",
+  "genre": "Soft Rock",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "393",
+  "title": "Huey Lewis and the News",
+  "artist": "Huey Lewis and the News",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "394",
+  "title": "I Hear a Symphony",
+  "artist": "The Supremes",
+  "genre": "Female Vocalist, R & B, Pop",
+  "decade": "1960s",
+  "year": "1966"
+}, {
+  "id": "395",
+  "title": "Tango in the Night",
+  "artist": "Fleetwood Mac",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1987"
+}, {
+  "id": "396",
+  "title": "Close to the Edge",
+  "artist": "Yes",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1972"
+}, {
+  "id": "397",
+  "title": "Journey",
+  "artist": "Journey",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1975"
+}, {
+  "id": "398",
+  "title": "Evolution",
+  "artist": "Journey",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "399",
+  "title": "New Harvest ... First Gathering",
+  "artist": "Dolly Parton",
+  "genre": "Female Vocalist, Country",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "400",
+  "title": "Hat Trick",
+  "artist": "America",
+  "genre": "Soft Rock",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "401",
+  "title": "L.A. Woman",
+  "artist": "The Doors",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1971"
+}, {
+  "id": "402",
+  "title": "News of the World",
+  "artist": "Queen",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "403",
+  "title": "Earth Sun Moon",
+  "artist": "Love and Rockets",
+  "genre": "Pop",
+  "decade": "1980s",
+  "year": "1987"
+}, {
+  "id": "404",
+  "title": "Next",
+  "artist": "Journey",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "405",
+  "title": "Exit...Stage Left",
+  "artist": "Rush",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "406",
+  "title": "Valotte",
+  "artist": "Julian Lennon",
+  "genre": "Pop",
+  "decade": "1980s",
+  "year": "1984"
+}, {
+  "id": "407",
+  "title": "Megalithic Symphony",
+  "artist": "Awolnation",
+  "genre": "Electronic, Rock",
+  "decade": "2010s",
+  "year": "2011"
+}, {
+  "id": "408",
+  "title": "You can Tune a piano, but you can't Tuna fish",
+  "artist": "Reo Speedwagon",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "409",
+  "title": "Seals & Crofts I & II",
+  "artist": "Seals & Crofts",
+  "genre": "Soft Rock",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "410",
+  "title": "Running on Empty",
+  "artist": "Jackson Browne",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "411",
+  "title": "Late for the Sky",
+  "artist": "Jackson Browne",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "412",
+  "title": "Tropico",
+  "artist": "Pat Benetar",
+  "genre": "Female Vocalist, Rock",
+  "decade": "1980s",
+  "year": "1984"
+}, {
+  "id": "413",
+  "title": "Wide Awake in Dreamland",
+  "artist": "Pat Benetar",
+  "genre": "Female Vocalist, Rock",
+  "decade": "1980s",
+  "year": "1988"
+}, {
+  "id": "414",
+  "title": "Toto IV",
+  "artist": "Toto",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "415",
+  "title": "No Heavy Petting",
+  "artist": "UFO",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1976"
+}, {
+  "id": "416",
+  "title": "Led Zeppelin II",
+  "artist": "Led Zeppelin",
+  "genre": "Rock",
+  "decade": "1960s",
+  "year": "1969"
+}, {
+  "id": "417",
+  "title": "Obsession",
+  "artist": "UFO",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "418",
+  "title": "Paradise Theater",
+  "artist": "Styx",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "419",
+  "title": "Here You Come Again",
+  "artist": "Dolly Parton",
+  "genre": "Female Vocalist, Country",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "420",
+  "title": "Super Trouper",
+  "artist": "ABBA",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "421",
+  "title": "Selfless",
+  "artist": "Godflesh",
+  "genre": "Industrial, Heavy Metal",
+  "decade": "1990s",
+  "year": "1994"
+}, {
+  "id": "422",
+  "title": "Listen Like Thieves",
+  "artist": "INXS",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1985"
+}, {
+  "id": "423",
+  "title": "Small World",
+  "artist": "Huey Lewis and the News",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1988"
+}, {
+  "id": "424",
+  "title": "Peace Sells... but Who's Buying?",
+  "artist": "Megadeth",
+  "genre": "Heavy Metal",
+  "decade": "1980s",
+  "year": "1986"
+}, {
+  "id": "425",
+  "title": "The Rainbow in Daddy's Eyes",
+  "artist": "Sammi Smith",
+  "genre": "Female Vocalist, Country",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "426",
+  "title": "Ark Power",
+  "artist": "The Animals",
+  "genre": "Blues, Rock",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "427",
+  "title": "Get Rhythm",
+  "artist": "Johnny Cash & the Tennessee Two",
+  "genre": "Country",
+  "decade": "1960s",
+  "year": "1969"
+}, {
+  "id": "428",
+  "title": "Here's Loretta Lynn",
+  "artist": "Loretta Lynn",
+  "genre": "Female Vocalist, Country",
+  "decade": "1960s",
+  "year": "1968"
+}, {
+  "id": "429",
+  "title": "Mechanical Resonance",
+  "artist": "Tesla",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1986"
+}, {
+  "id": "430",
+  "title": "Sunshine",
+  "artist": "Sammi Smith",
+  "genre": "Female Vocalist, Country",
+  "decade": "1970s",
+  "year": "1975"
+}, {
+  "id": "431",
+  "title": "Quiet Lies",
+  "artist": "Juice Newton",
+  "genre": "Female Vocalist, Country",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "432",
+  "title": "Nebraska",
+  "artist": "Bruce Springsteen",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "433",
+  "title": "Lawyers in Love",
+  "artist": "Jackson Browne",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "434",
+  "title": "Pipes of Peace",
+  "artist": "Paul McCartney",
+  "genre": "Pop, Rock, Soft Rock",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "435",
+  "title": "One for the Road",
+  "artist": "The Kinks",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1980"
+}, {
+  "id": "436",
+  "title": "The Wild, the Innocent & the E Street Shuffle",
+  "artist": "Bruce Springsteen",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "437",
+  "title": "Sugar",
+  "artist": "Nancy Sinatra",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1960s",
+  "year": "1967"
+}, {
+  "id": "438",
+  "title": "Mona Bone Jakon",
+  "artist": "Cat Stevens",
+  "genre": "Soft Rock, Folk",
+  "decade": "1970s",
+  "year": "1970"
+}, {
+  "id": "439",
+  "title": "Heroes Are Hard to Find",
+  "artist": "Fleetwood Mac",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "440",
+  "title": "Fire of Unknown Origin",
+  "artist": "Blue Oyster Cult",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "441",
+  "title": "Izitso",
+  "artist": "Cat Stevens",
+  "genre": "Soft Rock, Folk",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "442",
+  "title": "Close to You",
+  "artist": "The Carpenters",
+  "genre": "Pop",
+  "decade": "1970s",
+  "year": "1970"
+}, {
+  "id": "443",
+  "title": "Back Into BLue",
+  "artist": "Quarterflash",
+  "genre": "Female Vocalist, Pop, Rock",
+  "decade": "1980s",
+  "year": "1985"
+}, {
+  "id": "444",
+  "title": "Rush",
+  "artist": "Rush",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "445",
+  "title": "The Soft Parade",
+  "artist": "The Doors",
+  "genre": "Rock",
+  "decade": "1960s",
+  "year": "1969"
+}, {
+  "id": "446",
+  "title": "More",
+  "artist": "Pink Floyd",
+  "genre": "Rock",
+  "decade": "1960s",
+  "year": "1969"
+}, {
+  "id": "447",
+  "title": "Samantha Fox",
+  "artist": "Samantha Fox",
+  "genre": "Pop",
+  "decade": "1980s",
+  "year": "1987"
+}, {
+  "id": "448",
+  "title": "Hobo's Lullaby",
+  "artist": "Arlo Guthrie",
+  "genre": "Rock, Folk",
+  "decade": "1970s",
+  "year": "1972"
+}, {
+  "id": "449",
+  "title": "I Wanna Be Free",
+  "artist": "Loretta Lynn",
+  "genre": "Female Vocalist, Country",
+  "decade": "1970s",
+  "year": "1971"
+}, {
+  "id": "450",
+  "title": "Songs of Love and Hate",
+  "artist": "Godflesh",
+  "genre": "Industrial, Heavy Metal",
+  "decade": "1990s",
+  "year": "1996"
+}, {
+  "id": "451",
+  "title": "Dancin' on the Edge",
+  "artist": "Lita Ford",
+  "genre": "Female Vocalist, Heavy Metal",
+  "decade": "1980s",
+  "year": "1984"
+}, {
+  "id": "452",
+  "title": "Shadow Dancing",
+  "artist": "Andy Gibb",
+  "genre": "Pop",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "453",
+  "title": "Little L",
+  "artist": "Jamiroquai",
+  "genre": "Electronic, Pop",
+  "decade": "2000s",
+  "year": "2001"
+}, {
+  "id": "454",
+  "title": "Realm of Chaos",
+  "artist": "Bolt Thrower",
+  "genre": "Heavy Metal, Death Metal",
+  "decade": "1980s",
+  "year": "1989"
+}, {
+  "id": "455",
+  "title": "Waiting for the Roar",
+  "artist": "Fastway",
+  "genre": "Heavy Metal",
+  "decade": "1980s",
+  "year": "1985"
+}, {
+  "id": "456",
+  "title": "Coda",
+  "artist": "Led Zeppelin",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "457",
+  "title": "Some Enchanted Evening",
+  "artist": "Blue Oyster Cult",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "458",
+  "title": "Jackson Browne",
+  "artist": "Jackson Browne",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1972"
+}, {
+  "id": "459",
+  "title": "High 'n' Dry",
+  "artist": "Def Leppard",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "460",
+  "title": "Private Eyes",
+  "artist": "Hall & Oates",
+  "genre": "Pop, Rock, Soft Rock",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "461",
+  "title": "John Barleycorn Must Die",
+  "artist": "Traffic",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1970"
+}, {
+  "id": "462",
+  "title": "Plastic Letters",
+  "artist": "Blondie",
+  "genre": "Female Vocalist, Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "463",
+  "title": "Spirits Having Flown",
+  "artist": "Bee Gees",
+  "genre": "Pop",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "464",
+  "title": "Metals",
+  "artist": "Feist",
+  "genre": "Female Vocalist, Pop",
+  "decade": "2010s",
+  "year": "2011"
+}, {
+  "id": "465",
+  "title": "Morrison Hotel",
+  "artist": "The Doors",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1970"
+}, {
+  "id": "466",
+  "title": "Misfits",
+  "artist": "The Kinks",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "467",
+  "title": "The Number of the Beast",
+  "artist": "Iron Maiden",
+  "genre": "Heavy Metal",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "468",
+  "title": "Bark at the Moon",
+  "artist": "Ozzy Ozbourne",
+  "genre": "Heavy Metal",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "469",
+  "title": "Low Budget",
+  "artist": "The Kinks",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "470",
+  "title": "Man of Miracles",
+  "artist": "Styx",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "471",
+  "title": "Talking Book",
+  "artist": "Stevie Wonder",
+  "genre": "Funk",
+  "decade": "1970s",
+  "year": "1972"
+}, {
+  "id": "472",
+  "title": "Great Balls of Fire",
+  "artist": "Dolly Parton",
+  "genre": "Female Vocalist, Country",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "473",
+  "title": "Live: The Road",
+  "artist": "The Kinks",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1988"
+}, {
+  "id": "474",
+  "title": "Penguin",
+  "artist": "Fleetwood Mac",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "475",
+  "title": "When the Eagle Flies",
+  "artist": "Traffic",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "476",
+  "title": "Mystery to Me",
+  "artist": "Fleetwood Mac",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "477",
+  "title": "Yes",
+  "artist": "Yes",
+  "genre": "Rock",
+  "decade": "1960s",
+  "year": "1969"
+}, {
+  "id": "478",
+  "title": "Defenders of the Faith",
+  "artist": "Judas Priest",
+  "genre": "Heavy Metal",
+  "decade": "1980s",
+  "year": "1984"
+}, {
+  "id": "479",
+  "title": "The Pretender",
+  "artist": "Jackson Browne",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1976"
+}, {
+  "id": "480",
+  "title": "Kiln House",
+  "artist": "Fleetwood Mac",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1970"
+}, {
+  "id": "481",
+  "title": "Future Games",
+  "artist": "Fleetwood Mac",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1971"
+}, {
+  "id": "482",
+  "title": "Heartbreak Express",
+  "artist": "Dolly Parton",
+  "genre": "Female Vocalist, Country",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "483",
+  "title": "Warmaster",
+  "artist": "Bolt Thrower",
+  "genre": "Heavy Metal, Death Metal",
+  "decade": "1990s",
+  "year": "1991"
+}, {
+  "id": "484",
+  "title": "Led Zeppelin III",
+  "artist": "Led Zeppelin",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1970"
+}, {
+  "id": "485",
+  "title": "Sheer Heart Attack",
+  "artist": "Queen",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1974"
+}, {
+  "id": "486",
+  "title": "Diver Down",
+  "artist": "Van Halen",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "487",
+  "title": "Animals",
+  "artist": "Pink Floyd",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1977"
+}, {
+  "id": "488",
+  "title": "Houses of the Holy",
+  "artist": "Led Zeppelin",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "489",
+  "title": "September Morn",
+  "artist": "Neil Diamond",
+  "genre": "Pop, Rock",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "490",
+  "title": "Three Dog Night",
+  "artist": "Three Dog Night",
+  "genre": "Rock",
+  "decade": "1960s",
+  "year": "1968"
+}, {
+  "id": "491",
+  "title": "State of Confusion",
+  "artist": "The Kinks",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "492",
+  "title": "Shake it Up",
+  "artist": "The Cars",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "493",
+  "title": "Touch Me",
+  "artist": "Samantha Fox",
+  "genre": "Pop",
+  "decade": "1980s",
+  "year": "1986"
+}, {
+  "id": "497",
+  "title": "The Seventh One",
+  "artist": "Toto",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1988"
+}, {
+  "id": "498",
+  "title": "Sudan Village",
+  "artist": "Seals & Crofts",
+  "genre": "Soft Rock",
+  "decade": "1970s",
+  "year": "1976"
+}, {
+  "id": "499",
+  "title": "Stones",
+  "artist": "Neil Diamond",
+  "genre": "Pop, Rock",
+  "decade": "1970s",
+  "year": "1971"
+}, {
+  "id": "500",
+  "title": "Indelibly Stamped",
+  "artist": "Supertramp",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1971"
+}, {
+  "id": "501",
+  "title": "Desparate Ground",
+  "artist": "The Thermals",
+  "genre": "Punk Rock",
+  "decade": "2010s",
+  "year": "2013"
+}, {
+  "id": "502",
+  "title": "Now We Can See",
+  "artist": "The Thermals",
+  "genre": "Punk Rock",
+  "decade": "2000s",
+  "year": "2009"
+}, {
+  "id": "503",
+  "title": "Then Play On",
+  "artist": "Fleetwood Mac",
+  "genre": "Rock",
+  "decade": "1960s",
+  "year": "1969"
+}, {
+  "id": "504",
+  "title": "The Serpent Is rising",
+  "artist": "Styx",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1973"
+}, {
+  "id": "505",
+  "title": "... For Victory",
+  "artist": "Bolt Thrower",
+  "genre": "Heavy Metal, Death Metal",
+  "decade": "1990s",
+  "year": "1994"
+}, {
+  "id": "506",
+  "title": "Fastway",
+  "artist": "Fastway",
+  "genre": "Rock, Heavy Metal",
+  "decade": "1980s",
+  "year": "1983"
+}, {
+  "id": "507",
+  "title": "Behind the Mask",
+  "artist": "Fleetwood Mac",
+  "genre": "Rock",
+  "decade": "1990s",
+  "year": "1990"
+}, {
+  "id": "508",
+  "title": "Turbo",
+  "artist": "Judas Priest",
+  "genre": "Rock, Heavy Metal",
+  "decade": "1980s",
+  "year": "1986"
+}, {
+  "id": "509",
+  "title": "Mama",
+  "artist": "Bread",
+  "genre": "Soft Rock",
+  "decade": "1970s",
+  "year": "1971"
+}, {
+  "id": "510",
+  "title": "I Want Your (Hands On Me)",
+  "artist": "Sinead O'connor With MC Lyte",
+  "genre": "Female Vocalist, Pop",
+  "decade": "1980s",
+  "year": "1988"
+}, {
+  "id": "511",
+  "title": "Reo",
+  "artist": "Reo Speedwagon",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1976"
+}, {
+  "id": "512",
+  "title": "Sacred Heart",
+  "artist": "Dio",
+  "genre": "Rock, Heavy Metal",
+  "decade": "1980s",
+  "year": "1985"
+}, {
+  "id": "513",
+  "title": "Hold Your Fire",
+  "artist": "Rush",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1987"
+}, {
+  "id": "514",
+  "title": "Moving Pictures",
+  "artist": "Rush",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1981"
+}, {
+  "id": "515",
+  "title": "Obscured By Clouds",
+  "artist": "Pink Floyd",
+  "genre": "Rock",
+  "decade": "1970s",
+  "year": "1972"
+}, {
+  "id": "516",
+  "title": "UK Jive",
+  "artist": "The Kinks",
+  "genre": "Rock",
+  "decade": "1980s",
+  "year": "1989"
+}, {
+  "id": "517",
+  "title": "If You Knew Suzi...",
+  "artist": "Suzi Quatro",
+  "genre": "Pop, Rock",
+  "decade": "1970s",
+  "year": "1978"
+}, {
+  "id": "518",
+  "title": "Suzi ... and Other Four Letter Words",
+  "artist": "Suzi Quatro",
+  "genre": "Pop, Rock",
+  "decade": "1970s",
+  "year": "1979"
+}, {
+  "id": "519",
+  "title": "Let's Dance",
+  "artist": "David Bowie",
+  "genre": "Pop",
+  "decade": "1980s",
+  "year": "1982"
+}, {
+  "id": "520",
+  "title": "Streetcleaner",
+  "artist": "Godflesh",
+  "genre": "Industrial, Heavy Metal",
+  "decade": "1980s",
+  "year": "1989"
+}]
