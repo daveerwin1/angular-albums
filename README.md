@@ -2,13 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.1.
 
-## Requirements to run locally
+## Requirements to run
 
-Requires a mongoDB server `sudo apt-get install mongodb`
+Requires a mongoDB server `sudo apt-get install mongodb` or use an mlab server 
 
 Requires a node.js server use command: `node server`
 
-Put mongoDB credentials in .env in project root
+Put mongoDB credentials in .env in project root. Use localhost or mlab address
 
 ## Development server
 

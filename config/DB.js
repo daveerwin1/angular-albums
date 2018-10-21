@@ -3,11 +3,13 @@ require('dotenv').config();
 
 {
   database: {
+    name: process.env.DB_NAME,
+    host: process.env.DB_HOST,
     username: process.env.DB_USERNAME,
-    password: process.env.DB_PASSWORD
+    password: process.env.DB_PASSWORD,
   }
 }
 
 module.exports = {
-   DB: 'mongodb://database.username:database.password@ds237723.mlab.com:37723/albumsdb'
+   DB: 'mongodb://database.username:database.password@database.host:37723/database.name'
 };
