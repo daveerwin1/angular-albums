@@ -8,6 +8,7 @@ import { CreateComponent } from './create/create.component';
 import { EditComponent } from './edit/edit.component';
 
 import {HttpClientModule} from '@angular/common/http';
+import { AlbumService } from './album.service';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,7 @@ import {HttpClientModule} from '@angular/common/http';
     AppRoutingModule,
     HttpClientModule
   ],
-  providers: [],
+  providers: [AlbumService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
