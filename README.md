@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Requirements to run
 
-Requires a mongoDB server `sudo apt-get install mongodb` or use an mlab server 
+Requires a mongoDB server `sudo apt-get install mongodb` or use an mlab server
 
 Requires a node.js server use command: `node server`
 
