@@ -8,6 +8,7 @@ import { CreateComponent } from './create/create.component';
 import { EditComponent } from './edit/edit.component';
 
 import {HttpClientModule} from '@angular/common/http';
+import { ReactiveFormsModule } from '@angular/forms';
 import { AlbumService } from './album.service';
 
 @NgModule({
@@ -20,7 +21,8 @@ import { AlbumService } from './album.service';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    ReactiveFormsModule
   ],
   providers: [AlbumService],
   bootstrap: [AppComponent]
