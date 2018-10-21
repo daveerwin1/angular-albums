@@ -3,10 +3,34 @@ var Schema = mongoose.Schema;
 
 // Define collection and schema for Items
 var Album = new Schema({
-  name: {
+  id: {
+    type: Number
+  },
+  title: {
     type: String
   },
-  price: {
+  artist: {
+    type: String
+  },
+  artist_alphabetical: {
+    type: String
+  },
+  genre: {
+    type: String
+  },
+  decade: {
+    type: String
+  },
+  year: {
+    type: String
+  },
+  description: {
+    type: String
+  },
+  created: {
+    type: Number
+  },
+  updated: {
     type: Number
   }
 },{
