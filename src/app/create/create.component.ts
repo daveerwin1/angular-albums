@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CreateComponent implements OnInit {
 
+  title = 'Add Album';
+
   constructor() { }
 
   ngOnInit() {

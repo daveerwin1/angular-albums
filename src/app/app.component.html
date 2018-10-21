@@ -1,9 +1,15 @@
-<div style="text-align:center">
-  <h1>
-    Welcome to {{title}}!!
-  </h1>
-  <nav>
-    <a routerLink="create" routerLinkActive="active">Add Albums</a>
-  </nav>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <ul class="nav navbar-nav">
+      <li class="active">
+        <a routerLink="create" routerLinkActive="active">
+          Add Albums
+        </a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<div class="container">
   <router-outlet></router-outlet>
 </div>
