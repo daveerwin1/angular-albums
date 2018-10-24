@@ -12,21 +12,43 @@ export class EditComponent implements OnInit {
 
   album: any;
   angForm: FormGroup;
-  title = 'Edit Album';
-  constructor(private route: ActivatedRoute, private router: Router, private service: AlbumService, private fb: FormBuilder) {
+  pageTitle = 'Edit Album';
+  constructor(
+    private route: ActivatedRoute,
+    private router: Router,
+    private service: AlbumService,
+    private fb: FormBuilder) {
     this.createForm();
   }
 
   createForm() {
     this.angForm = this.fb.group({
-      name: ['', Validators.required],
-      price: ['', Validators.required]
+      id: ['', Validators.required],
+      title: ['', Validators.required],
+      artist: ['', Validators.required],
+      artist_alphabetical: ['', Validators.required],
+      genre: ['', Validators.required],
+      decade: ['', Validators.required],
+      year: ['', Validators.required],
+      description: [''],
+      created: ['', Validators.required],
+      updated: ['', Validators.required],
     });
   }
 
-  updateAlbum(name, price) {
+  updateAlbum(
+    id,
+    title,
+    artist,
+    artist_alphabetical,
+    genre,
+    decade,
+    year,
+    description,
+    created,
+    updated) {
     this.route.params.subscribe(params => {
-      this.service.updateAlbum(name, price, params['id']);
+      this.service.updateAlbum(id, title, artist, artist_alphabetical, genre, decade, year, description, created, updated, params['id']);
       this.router.navigate(['index']);
     });
   }

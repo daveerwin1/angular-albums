@@ -14,7 +14,7 @@
           <td>{{ album.artist }}</td>
           <td>{{ album.genre }}</td>
           <td><a [routerLink]="['/edit', album._id]" class="">Edit</a></td>
-          <td><a (click)="deleteAlbum(album._id)"  class="">Delete</a></td>
+          <td><!--<a (click)="deleteAlbum(album._id)"  class="">Delete</a>--></td>
       </tr>
   </tbody>
 </table>

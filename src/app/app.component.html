@@ -1,19 +1,21 @@
-<nav class="navbar navbar-default">
+<div class="mb-5">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
     <ul class="nav navbar-nav">
-      <li>
-        <a routerLink="create" routerLinkActive="active">
+      <li class="nav-item">
+        <a class="nav-link" routerLink="create" routerLinkActive="active">
           Add Album
         </a>
       </li>
-      <li>
-        <a routerLink="index" routerLinkActive="active">
+      <li class="nav-item">
+        <a class="nav-link" routerLink="index" routerLinkActive="active">
           Display Albums
         </a>
       </li>
     </ul>
   </div>
 </nav>
+</div>
 
 <div class="container">
   <router-outlet></router-outlet>
