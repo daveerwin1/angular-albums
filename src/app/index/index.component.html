@@ -1,9 +1,10 @@
 <table class="table table-hover table-striped">
   <thead>
   <tr>
-      <td>Album Name</td>
-      <td>Artist Name</td>
+      <td>Album Title</td>
+      <td>Artist</td>
       <td>Genre</td>
+      <td>Year</td>
       <td colspan="2">Actions</td>
   </tr>
   </thead>
@@ -13,6 +14,7 @@
           <td>{{ album.title }}</td>
           <td>{{ album.artist }}</td>
           <td>{{ album.genre }}</td>
+          <td>{{ album.year }}</td>
           <td><a [routerLink]="['/edit', album._id]" class="">Edit</a></td>
           <td><!--<a (click)="deleteAlbum(album._id)"  class="">Delete</a>--></td>
       </tr>

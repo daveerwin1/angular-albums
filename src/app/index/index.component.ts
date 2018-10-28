@@ -20,13 +20,25 @@ export class IndexComponent implements OnInit {
 
   getAlbums() {
     this.service.getAlbums().subscribe(res => {
-      this.albums = this.alphabetizeAlbums(res);
+      this.albums = this.sortAlbums(res);
     });
   }
 
-  alphabetizeAlbums(object) {
-    object.sort((a, b) => a.artist_alphabetical.localeCompare(b.artist_alphabetical))
-    return object;
+  sortAlbums(object) {
+    
+    // Alphabetical sort.
+    let object1 = object.sort((a, b) => a.artist_alphabetical.localeCompare(b.artist_alphabetical))
+
+    // Sort by year in alphabetical.
+    let object2 = object1.sort((a, b) => {
+      a.artist_alphabetical.localeCompare(b.artist_alphabetical)
+      
+      if(a.artist_alphabetical === b.artist_alphabetical) {
+        return a.year >= b.year ? 1 : -1;
+      }
+    })
+
+    return object2;
   }
 
   deleteAlbum(id) {
