@@ -10,8 +10,6 @@ let db = {
   port: process.env.DB_PORT,
 }
 
-
 module.exports = {
-   DB: 
-   `mongodb://${ db.username }:${ db.password }@${ db.host }:${ db.port }/${ db.name }`
+   DB: `mongodb://${ db.username }:${ db.password }@${ db.host }:${ db.port }/${ db.name }`
 };
