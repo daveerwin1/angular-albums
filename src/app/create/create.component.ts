@@ -9,8 +9,10 @@ import { FormGroup,  FormBuilder,  Validators } from '@angular/forms';
 })
 export class CreateComponent implements OnInit {
 
+  album: any;
   title = 'Add Album';
   angForm: FormGroup;
+  pageTitle = 'Add Album';
 
   constructor(
     private albumservice: AlbumService,
@@ -21,12 +23,30 @@ export class CreateComponent implements OnInit {
 
   createForm() {
     this.angForm = this.fb.group({
-      name: ['', Validators.required ],
-      price: ['', Validators.required ]
+      id: ['', Validators.required],
+      title: ['', Validators.required],
+      artist: ['', Validators.required],
+      artist_alphabetical: ['', Validators.required],
+      genre: ['', Validators.required],
+      decade: ['', Validators.required],
+      year: ['', Validators.required],
+      description: [''],
+      created: ['', Validators.required],
+      updated: ['', Validators.required]
    });
   }
-  addAlbum(name, price) {
-      this.albumservice.addAlbum(name, price);
+  addAlbum(
+    id,
+    title,
+    artist,
+    artist_alphabetical,
+    genre,
+    decade,
+    year,
+    description,
+    created,
+    updated) {
+      this.albumservice.addAlbum(id, title, artist, artist_alphabetical, genre, decade, year, description, created, updated);
   }
   ngOnInit() {
   }

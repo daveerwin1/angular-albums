@@ -44,8 +44,15 @@ albumRoutes.route('/update/:id').post(function(req, res) {
     if (!album)
       return next(new Error('Could not load Document'));
     else {
-      album.name = req.body.name;
-      album.price = req.body.price;
+      album.id = req.body.id;
+      album.title = req.body.title;
+      album.artist_alphabetical = req.body.artist_alphabetical;
+      album.genre = req.body.genre;
+      album.decade = req.body.decade;
+      album.year = req.body.year;
+      album.description = req.body.description;
+      album.created = req.body.created;
+      album.updated = req.body.updated;
 
       album.save().then(album => {
           res.json('Update complete');

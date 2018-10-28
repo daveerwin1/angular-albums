@@ -7,7 +7,7 @@ const express = require('express'),
   albumRoutes = require('./expressRoutes/albumRoutes');
 
 mongoose.Promise = global.Promise;
-mongoose.connect(config.DB).then(
+mongoose.connect(config.DB, { useNewUrlParser: true }).then(
   () => {
     console.log('Database is connected')
   },

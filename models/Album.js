@@ -4,7 +4,7 @@ var Schema = mongoose.Schema;
 // Define collection and schema for Items
 var Album = new Schema({
   id: {
-    type: Number
+    type: String
   },
   title: {
     type: String
@@ -28,10 +28,10 @@ var Album = new Schema({
     type: String
   },
   created: {
-    type: Number
+    type: String
   },
   updated: {
-    type: Number
+    type: String
   }
 },{
     collection: 'albums'

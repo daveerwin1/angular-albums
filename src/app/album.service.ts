@@ -12,12 +12,22 @@ export class AlbumService {
   result: any;
   constructor(private http: HttpClient) { }
 
-  addAlbum(name, price) {
+  addAlbum(nid, title, artist, artist_alphabetical, genre, decade, year, description, created, updated) {
     const uri = 'http://localhost:4000/albums/add';
     const obj = {
-      name: name,
-      price: price
+      id: nid,
+      title: title,
+      artist: artist,
+      artist_alphabetical: artist_alphabetical,
+      genre: genre,
+      decade: decade,
+      year: year,
+      description: description,
+      created: created,
+      updated: updated,
     };
+    console.log(uri);
+    console.log(obj);
     this.http.post(uri, obj).subscribe(res => console.log('Done'));
   }
 
@@ -33,6 +43,7 @@ export class AlbumService {
 
   editAlbum(id) {
     const uri = 'http://localhost:4000/albums/edit/' + id;
+    
     return this
       .http
       .get(uri)
@@ -56,6 +67,7 @@ export class AlbumService {
       created: created,
       updated: updated,
     };
+    
     this.http.post(uri, obj).subscribe(res => console.log('Album updated.'));
   }
 
