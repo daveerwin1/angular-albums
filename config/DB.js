@@ -2,14 +2,16 @@
 require('dotenv').config();
 
 
-let database = {
+let db = {
   name: process.env.DB_NAME,
   host: process.env.DB_HOST,
   username: process.env.DB_USERNAME,
   password: process.env.DB_PASSWORD,
+  port: process.env.DB_PORT,
 }
 
 
 module.exports = {
-   DB: 'mongodb://database.username:database.password@database.host:37723/database.name'
+   DB: 
+   `mongodb://${ db.username }:${ db.password }@${ db.host }:${ db.port }/${ db.name }`
 };
