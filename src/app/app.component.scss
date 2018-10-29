@@ -2,3 +2,13 @@ body {
   -webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
+
+.region-navigation {
+  a {
+    vertical-align: middle;
+  }
+
+  .logo {
+    margin-right: 10px;
+  }
+}

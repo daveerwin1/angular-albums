@@ -6,6 +6,10 @@ import { CreateComponent } from './create/create.component';
 import { EditComponent } from './edit/edit.component';
 
 export const routes: Routes = [
+  { path: '',
+    redirectTo: '/index',
+    pathMatch: 'full'
+  },
   { path: 'create',
     component: CreateComponent
   },
