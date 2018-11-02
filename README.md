@@ -7,6 +7,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Requires a mongoDB server `sudo apt-get install mongodb` or use an mlab server.
 
 Requires a node.js server use command: `node server`
+* I have since used nodemon 'npm install -g nodemon' and use command 'nodemon server'
+
 
 Put mongoDB credentials in .env in project root. Use localhost or mlab address.
 
