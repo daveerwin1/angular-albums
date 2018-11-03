@@ -1,7 +1,9 @@
 import { AlbumService } from '../album.service';
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
+import {MatTable} from '@angular/material';
+
 
 @Component({
   selector: 'app-index',
@@ -12,14 +14,20 @@ export class IndexComponent implements OnInit {
 
   albums: any;
 
-  constructor(private http: HttpClient, private service: AlbumService) {}
+
+  displayedColumns: string[] = ['title', 'artist', 'genre', 'year'];
+  dataSource: any;
+
+  constructor(private http: HttpClient, private albumService: AlbumService) {}
 
   ngOnInit() {
     this.getAlbums();
+    this.dataSource = this.albums;
+    
   }
 
   getAlbums() {
-    this.service.getAlbums().subscribe(res => {
+    this.albumService.getAlbums().subscribe(res => {
       this.albums = this.sortAlbums(res);
     });
   }
@@ -27,22 +35,27 @@ export class IndexComponent implements OnInit {
   sortAlbums(object) {
     
     // Alphabetical sort.
-    let object1 = object.sort((a, b) => a.artist_alphabetical.localeCompare(b.artist_alphabetical))
+    object.sort(
+      function(a, b) {
+        if(a.artist_alphabetical === b.artist_alphabetical) {
+          return a.year - b.year;
+        }
+        else {
+          return a.artist_alphabetical.localeCompare(b.artist_alphabetical);
+        }
+      }
+    );
+
+    //console.log(object);
 
     // Sort by year in alphabetical.
-    let object2 = object1.sort((a, b) => {
-      a.artist_alphabetical.localeCompare(b.artist_alphabetical)
-      
-      if(a.artist_alphabetical === b.artist_alphabetical) {
-        return a.year >= b.year ? 1 : -1;
-      }
-    })
+   
 
-    return object2;
+    return object;
   }
 
   deleteAlbum(id) {
-    this.service.deleteAlbum(id).subscribe(res => {
+    this.albumService.deleteAlbum(id).subscribe(res => {
       console.log('Deleted');
     });
   }
