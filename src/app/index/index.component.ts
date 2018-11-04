@@ -15,23 +15,12 @@ import {DataSource} from '@angular/cdk/collections';
   styleUrls: ['./index.component.scss']
 })
 export class IndexComponent implements OnInit {
-/*
-  genres: Genre[] = [
-    {value: 'Heavy Metal', viewValue: 'Heavy Metal'},
-    {value: 'Rock', viewValue: 'Rock'},
-    {value: 'Country', viewValue: 'Country'}
-  ];
-*/
+
   displayedColumns: string[] = ['title', 'artist', 'genre', 'year'];
-
   albums: Observable<Album[]> = this.albumService.getAlbums();
-
   albumsArray: Album[];
-
   dataSource = new MatTableDataSource<Album>(this.albumsArray);
-
   @ViewChild(MatPaginator) paginator: MatPaginator;
-
   genres: any[];
 
   constructor(private http: HttpClient, private albumService: AlbumService) {}
@@ -53,8 +42,6 @@ export class IndexComponent implements OnInit {
       complete: () => console.log('Observer got a complete notification'),
     };
     this.albums.subscribe(myObserver);
-
-    
   }
 
   getGenres(): any[] {
