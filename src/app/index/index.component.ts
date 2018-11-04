@@ -22,15 +22,44 @@ export class IndexComponent implements OnInit {
   @ViewChild(MatPaginator) paginator: MatPaginator;
   genres: any[];
   decades: any[];
-  selectedGenre: string;
-  selectedDecade: string;
+  selectedGenre: string = '';
+  selectedDecade: string = '';
+  searchFilterValue: string = '';
+
+  filteredData: Album[];
 
   albumsObserver: Observer<Album[]>;
 
   constructor(private http: HttpClient, private albumService: AlbumService) {}
 
-  applyFilter(filterValue: string) {
-    this.dataSource.filter = filterValue.trim().toLowerCase();
+  applyFilter(filterValue?: string) {
+
+    // Reset dataSource
+    this.dataSource.data = this.albumsArray;
+
+    if (filterValue) {
+      this.searchFilterValue = filterValue.trim().toLowerCase();
+    }
+
+    this.dataSource.filter = this.searchFilterValue;
+    //console.log(this.dataSource.filteredData);
+
+
+    this.filterByGenre();
+    this.filterByDecade();
+    
+  }
+
+  filterByGenre() {
+    if (this.selectedGenre) {
+      this.dataSource.data = this.dataSource.data.filter(album => album.genre.includes(this.selectedGenre));
+    }
+  }
+
+  filterByDecade() {
+    if (this.selectedDecade) {
+      this.dataSource.data = this.dataSource.data.filter(album => album.decade === this.selectedDecade);
+    }
   }
 
   ngOnInit() {
@@ -40,6 +69,7 @@ export class IndexComponent implements OnInit {
       next: album => {
         this.albumsArray = album;
         this.dataSource.data = album;
+        this.filteredData = album;
         this.genres = this.getFilterList("genre", true);
         this.decades = this.getFilterList("decade", false);
       },
@@ -66,20 +96,12 @@ export class IndexComponent implements OnInit {
       });
     });
     unique.sort();
-    
+
     if (!sortAsc) {
       unique.reverse();
     }
     
     return unique;
-  }
-
-  filterByGenre() {
-    this.dataSource.filter = this.selectedGenre;
-  }
-
-  filterByDecade() {
-    this.dataSource.filter = this.selectedDecade;
   }
 
   deleteAlbum(id) {
