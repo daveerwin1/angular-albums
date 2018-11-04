@@ -3,6 +3,7 @@ import { HttpClient } from '@angular/common/http';
 import { FormGroup, FormBuilder, Validators } from '@angular/forms';
 import { Observable } from 'rxjs';
 import { map } from 'rxjs/operators';
+import { Album } from './Album';
 
 @Injectable({
   providedIn: 'root'
@@ -30,15 +31,39 @@ export class AlbumService {
     console.log(obj);
     this.http.post(uri, obj).subscribe(res => console.log('Done'));
   }
-
-  getAlbums() {
+/*
+  getAlbums(): Observable<any> {
     const uri = 'http://localhost:4000/albums';
-    return this
-      .http
-      .get(uri)
-      .pipe(map(res => {
-        return res;
-      }));
+    let albums = this.http.get(uri).pipe(map(res => {
+      return res;
+    }));
+    console.log(albums);
+    return albums;
+  }
+*/
+  getAlbums (): Observable<Album[]> {
+    const albumsUrl = 'http://localhost:4000/albums';
+    let albums = this.http.get<Album[]>(albumsUrl).pipe(
+      map(val => {
+        return this.sortAlbums(val)
+      })
+    );
+    //console.log(albums);
+    return albums;
+  }
+
+  sortAlbums(object) {
+    object.sort(
+      function(a, b) {
+        if(a.artist_alphabetical === b.artist_alphabetical) {
+          return a.year - b.year;
+        }
+        else {
+          return a.artist_alphabetical.localeCompare(b.artist_alphabetical);
+        }
+      }
+    );
+    return object;
   }
 
   editAlbum(id) {
