@@ -40,8 +40,8 @@ export class IndexComponent implements OnInit {
       next: album => {
         this.albumsArray = album;
         this.dataSource.data = album;
-        this.genres = this.getFilterList("genre");
-        this.decades = this.getFilterList("decade");
+        this.genres = this.getFilterList("genre", true);
+        this.decades = this.getFilterList("decade", false);
       },
       error: err => console.error('Observer got an error: ' + err),
       complete: () => console.log('Observer got a complete notification'),
@@ -49,7 +49,7 @@ export class IndexComponent implements OnInit {
     this.albums.subscribe(this.albumsObserver);
   }
 
-  getFilterList(property): any[] {
+  getFilterList(property, sortAsc: boolean): any[] {
     let unique = [];
     
     this.albumsArray.forEach(function(element) {
@@ -60,22 +60,26 @@ export class IndexComponent implements OnInit {
       result.forEach(function(element) {
         let str2 = element.trim();
         
-        if (!unique.includes(str2)) {
+        if (str2 !== '' && !unique.includes(str2)) {
           unique.push(str2);
         }
       });
     });
+    unique.sort();
+    
+    if (!sortAsc) {
+      unique.reverse();
+    }
+    
     return unique;
   }
 
   filterByGenre() {
-    this.albumsArray = this.albumsArray.filter(album => album.genre.includes(this.selectedGenre));
-    this.dataSource.data = this.albumsArray;
+    this.dataSource.filter = this.selectedGenre;
   }
 
   filterByDecade() {
-    this.albumsArray = this.albumsArray.filter(album => album.decade.includes(this.selectedDecade))
-    this.dataSource.data = this.albumsArray;
+    this.dataSource.filter = this.selectedDecade;
   }
 
   deleteAlbum(id) {
