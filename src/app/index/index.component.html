@@ -29,12 +29,20 @@
 </mat-form-field>
 
 <mat-form-field>
-  <mat-select placeholder="Genre">
+  <mat-select placeholder="Genre" (selectionChange)="filterByGenre()" [(value)]="selectedGenre">
     <mat-option *ngFor="let genre of genres" [value]="genre">
       {{genre}}
     </mat-option>
   </mat-select>
 </mat-form-field>
+
+<mat-form-field>
+    <mat-select placeholder="Decade" (selectionChange)="filterByDecade()" [(value)]="selectedDecade">
+      <mat-option *ngFor="let decade of decades" [value]="decade">
+        {{decade}}
+      </mat-option>
+    </mat-select>
+  </mat-form-field>
 
 <div class="mat-elevation-z8">
   <table mat-table [dataSource]="dataSource" class="mat-elevation-z8" style="width: 100%;">
