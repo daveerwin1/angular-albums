@@ -2,7 +2,7 @@ import { AlbumService } from '../album.service';
 import { Component, OnInit, ViewChild, Input } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable, Observer } from 'rxjs';
-import {MatTable, MatTableDataSource, MatPaginator} from '@angular/material';
+import {MatSelect, MatTableDataSource, MatPaginator} from '@angular/material';
 import { Album } from '../Album';
 import { Genre } from '../Album';
 
@@ -25,29 +25,48 @@ export class IndexComponent implements OnInit {
   selectedGenre: string = '';
   selectedDecade: string = '';
   searchFilterValue: string = '';
-
+  searchValue: String = '';
+  totalResults: Number;
   filteredData: Album[];
-
   albumsObserver: Observer<Album[]>;
 
   constructor(private http: HttpClient, private albumService: AlbumService) {}
+
+  ngOnInit() {
+    this.dataSource.paginator = this.paginator;
+
+    this.albumsObserver = {
+      next: album => {
+        this.albumsArray = album;
+        this.dataSource.data = album;
+        this.filteredData = album;
+        this.genres = this.getFilterList("genre", true);
+        this.decades = this.getFilterList("decade", false);
+        this.totalResults = album.length;
+      },
+      error: err => console.error('Observer got an error: ' + err),
+      complete: () => console.log('Observer got a complete notification'),
+    };
+    this.albums.subscribe(this.albumsObserver);
+  }
 
   applyFilter(filterValue?: string) {
 
     // Reset dataSource
     this.dataSource.data = this.albumsArray;
 
-    if (filterValue) {
+    if (filterValue || filterValue === '') {
       this.searchFilterValue = filterValue.trim().toLowerCase();
     }
 
     this.dataSource.filter = this.searchFilterValue;
-    //console.log(this.dataSource.filteredData);
 
-
+    this.dataSource.data = this.dataSource.filteredData;
+    
     this.filterByGenre();
     this.filterByDecade();
-    
+
+    this.totalResults = this.dataSource.data.length;
   }
 
   filterByGenre() {
@@ -62,21 +81,14 @@ export class IndexComponent implements OnInit {
     }
   }
 
-  ngOnInit() {
-    this.dataSource.paginator = this.paginator;
-
-    this.albumsObserver = {
-      next: album => {
-        this.albumsArray = album;
-        this.dataSource.data = album;
-        this.filteredData = album;
-        this.genres = this.getFilterList("genre", true);
-        this.decades = this.getFilterList("decade", false);
-      },
-      error: err => console.error('Observer got an error: ' + err),
-      complete: () => console.log('Observer got a complete notification'),
-    };
-    this.albums.subscribe(this.albumsObserver);
+  resetFilters() {
+    // Reset dataSource
+    this.dataSource.filter = '';
+    this.dataSource.data = this.albumsArray;
+    this.searchValue = '';
+    this.selectedDecade = '';
+    this.selectedGenre = '';
+    this.totalResults = this.dataSource.data.length;
   }
 
   getFilterList(property, sortAsc: boolean): any[] {

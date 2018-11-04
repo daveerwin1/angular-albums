@@ -25,7 +25,7 @@
 <!--<a (click)="deleteAlbum(album._id)"  class="">Delete</a>-->
 
 <mat-form-field>
-  <input matInput (keyup)="applyFilter($event.target.value)" placeholder="Filter">
+  <input matInput (keyup)="applyFilter($event.target.value)" placeholder="Filter" [(ngModel)]="searchValue">
 </mat-form-field>
 
 <mat-form-field>
@@ -38,13 +38,17 @@
 </mat-form-field>
 
 <mat-form-field>
-    <mat-select placeholder="Decade" (selectionChange)="applyFilter()" [(value)]="selectedDecade">
-      <mat-option>- Any -</mat-option>
-      <mat-option *ngFor="let decade of decades" [value]="decade">
-        {{decade}}
-      </mat-option>
-    </mat-select>
-  </mat-form-field>
+  <mat-select placeholder="Decade" (selectionChange)="applyFilter()" [(value)]="selectedDecade">
+    <mat-option>- Any -</mat-option>
+    <mat-option *ngFor="let decade of decades" [value]="decade">
+      {{decade}}
+    </mat-option>
+  </mat-select>
+</mat-form-field>
+
+<button type="button" (click)="resetFilters()">Reset</button>
+
+<div class="total-rows">Results: {{ totalResults }}</div>
 
 <div class="mat-elevation-z8">
   <table mat-table [dataSource]="dataSource" class="mat-elevation-z8" style="width: 100%;">
