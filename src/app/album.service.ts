@@ -41,11 +41,12 @@ export class AlbumService {
     return albums;
   }
 */
-  getAlbums (): Observable<Album[]> {
+  getAlbums(): Observable<Album[]> {
     const albumsUrl = 'http://localhost:4000/albums';
     let albums = this.http.get<Album[]>(albumsUrl).pipe(
       map(val => {
-        return this.sortAlbums(val)
+        this.result = val;
+        return this.sortAlbums(val);
       })
     );
     //console.log(albums);

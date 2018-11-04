@@ -11,3 +11,8 @@ export interface Album {
     created: String;
     updated: String;
   }
+
+  export interface Genre {
+    value: string;
+    viewValue: string;
+  }

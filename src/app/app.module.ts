@@ -16,6 +16,12 @@ import { AlbumService } from './album.service';
 import {MatPaginatorModule} from '@angular/material/paginator';
 import {MatTableModule} from '@angular/material/table';
 
+import {MatFormFieldModule} from '@angular/material/form-field';
+import {MatInputModule} from '@angular/material';
+
+import {MatSelectModule} from '@angular/material/select';
+
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -30,7 +36,10 @@ import {MatTableModule} from '@angular/material/table';
     ReactiveFormsModule,
     BrowserAnimationsModule,
     MatTableModule,
-    MatPaginatorModule
+    MatPaginatorModule,
+    MatFormFieldModule,
+    MatInputModule,
+    MatSelectModule
   ],
   providers: [AlbumService],
   bootstrap: [AppComponent]
