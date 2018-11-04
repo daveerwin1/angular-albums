@@ -30,6 +30,7 @@
 
 <mat-form-field>
   <mat-select placeholder="Genre" (selectionChange)="filterByGenre()" [(value)]="selectedGenre">
+    <mat-option>- Any -</mat-option>
     <mat-option *ngFor="let genre of genres" [value]="genre">
       {{genre}}
     </mat-option>
@@ -38,6 +39,7 @@
 
 <mat-form-field>
     <mat-select placeholder="Decade" (selectionChange)="filterByDecade()" [(value)]="selectedDecade">
+      <mat-option>- Any -</mat-option>
       <mat-option *ngFor="let decade of decades" [value]="decade">
         {{decade}}
       </mat-option>
