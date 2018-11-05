@@ -1,25 +1,18 @@
 <header class="navbar navbar-expand-lg navbar-light bg-light" id="navbar" role="banner">
-  <div class="container-fluid">
+  
     <div class="navbar-header">
       <div class="region region-navigation">
         <a class="logo navbar-btn pull-left" href="/" title="Home" rel="home">
           <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAxJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MThCNEY0NzBBNjU2MTFFN0E3OTZEM0YwNzA0NkNENjkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MThCNEY0NkZBNjU2MTFFN0E3OTZEM0YwNzA0NkNENjkiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiBNYWNpbnRvc2giPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0iOTU3QTA4RTA4NTg2NERERDFCMDYzQTZERTEwMDM2MUQiIHN0UmVmOmRvY3VtZW50SUQ9Ijk1N0EwOEUwODU4NjREREQxQjA2M0E2REUxMDAzNjFEIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+tEqTiwAAB/1JREFUeNqcV2lsVOcVPX4zXsfLjDcwBhtsY0pig2kxIBW8iGYxCBkh2qiOKsoPRMCiP4qESmkDbRFSU6kVyZ9SiR9lkdO0sqrGyIDbtCKlNJjNC44xGG/YYLyN1/E2np7zOYNIamKbT3p6b+a99917zz333PsC7t69Cy3LshAeHo5Tp07h8ePHWLx4MYaGhsx/gYGBqK+vj+zt7X2tr69vE8+r3G53Mu+79G5oaGhfZGRka1xcXM2CBQv+nZCQULFs2bI+j8eD4eFhhIWF4dGjR+D/2LNnD0ZHR+H1eo1dO2ZYU1NT5iUd169fT29tbT1Ag0WDg4PRPDAxMWEOn89nnqcRV3d3d8rDhw/z+POAw+HoX7VqVUlGRsYHK1asqNOz2nOmZSsuLjYXAQEBCAoKQmVlpSIym5eWlh5ra2v7Cx1ZFx8fHxoREWGQ0j1tODk5OeOmNBjCiNfevn27mPsGpaWlfaLn9e7atWvNe37n/w8BwoiKiopFDQ0NpYRxfV5eHkZGRtDU1GSittvtJiU2mw2zLRm5dOnST+/du1eQk5OzIzMzs9lv2L8s/4W8Ut75cBodqN6+ffv6rVu3mkjlAHOMqKgohISEGAeE2FxXc3PzmrNnz1Yxja8uWbLkS8hZikibMVe4cOFCbHl5eeWRI0di0tPT0dPTY4zFxsbC6XSaaznkJ9B8nGDkkST4Z0xxYmpqqkFHKFokj9m0rq4Ohw4d+ue2bduceoBMR3BwsGGuOCE2y3PxQGiIL/NdtOUoKir6V2dnpwmmv78floxr08OHDx+NiYnJEElUMopOxlUyAwMDhhtLly41ZSkyzSf65xe5lEaE34uOjjZ72AoLC0WURVevXv1YOWedG3gEuzyUFrC2jWGhotoWEnJM919m1dTUfJsEP0OE3db4+DjKysp+7nK5jGE5oKXz06dPjXHdEwpyanVWFmLjYjE1NoxQiRCPoJdw4ty5c7+QbYv5CCGpdi9cuBAsPYyNjRnWk7kmz4K7o6MD9BjfZHoaaqtQWVaGgaFhhKRkIjR1NSKjXYhlRkJMZc4tNVVVVW8zqAj7zZs336QTwcnJyWCZmLzIAXmnyOWI8rVoSRLO//4DfPTXMuBb34Utewe8dgdYErCN9CLswd/hvPNnDHomMewLEO2/1gGS2rp27do2GyEuppF1YryERoYFv8pTeRb7Ff0nFz/GmY9KgR0ngO+9N61kw73UbS98EQswnv4axkNdcLX/FxOTLFXf7CiQ/G4bxeUnJFeyNpRxGRXx9FskU5UMEe6L585gcHUhUPQ+8LQB8JCAnkEq2Di118NrN7wpOQgYcyOspQYjc0gDdWCSh+0Yme0Us+WAWK4U6KzGI040N9Sha5jsLzwGn3I8RsMRTqDTDagSosLoyMR0H3DEwfHoU4yPeDA1B32y04hTxmT8+dr2XxvRGPPAlvQqpmzkfGcj/6USPu5C0RsrYWMazpazpTt5b5QlHBYNr2sp7N29+Gqren5/IcyUR9glq/7jRUuROGzWdJTMOSbHAPcIAgZcsFzxQPQiloB3ugLsQZjgXo5AICwi+tm+SqXfAV37pdjO5uJmzqO+DidtYetrhTXcg6noZcBQJ7DQifOX6mmlA3hlJaOnU0EOBHQ/xGRHA1LT0hAes9CIl4wprTIoh0R2nSnHgxYltnW2RAnKqd5+OB5UEIoYesPwxomGi2UYJtXqnv4vYSV81z6Ekynb9J0CqPP5D8q8ETWJmcpbvYDl3WFRgKrnIhyDVgDCq0oRfOdDIDYdCI83cLOfAoH0Ii4N+Acr5LPzKCh6i4NHtumg6h/qIxxozOF3RAJHR2ptBQUFITdu3HhrNge8FBcf6zuKdR4wypIjEr7gCEZuJxGJwOWTQPmvsf31fPzgnR+ho73NvCcRUznLsLqq8i+HpK4pKSm/tW/YsKGcw8I4eTCLpPuMwk2OehHxnxIE11/EFNkuvZnqfIBAlmz25jwUvv1DtLU0GaOCvqurywwyckACp9xL5ChCvuzs7L9ZHBw9+fn5f5zjWIExMrKbVgd6+uB5cNscdkzgGxs3Iu2VTFTfuaOpykSp0paSJiUlPZukli9fjpaWFqWnZOPGjQOWVI/j1y/n282of6D+YVQI2ENNH6mtrcWTJ0/MNK1o29vbTfTigiLXICPJ55QNGn9XZWmpPHJzcx/t2rXrV3jJJbVUIIpYS05wRDdQy7imLhlTT7l8+TI4cf1u7969jSpPS8zUOn78+Lscnz9/GQf8Y7oUVdOU8i7CCXaRTXUv5t+6dQuNjY1NR48e/bEQ0TOWIJH38rSkpCSfkA3O1wFtplxraNGSYaGiLywhrDQo7xxCxk6cOJHLjxaTItm2vuhK8gxZWVmdp0+fXscvG/d8ETD5ZG2rqakCBLs6qwK7f/8+Tp48OXLw4MH1O3fubBNJZdPI8b59+541CkVBcejmzRISJZeNKmEuDsiwGO7/XtChshMSgv3KlSs1mzdvztu9e/fnsqGU+PuCbf/+/V/6NBNU1O/+NWvW/IEbB3JYycHcertxgOgZ8qkC+EErXvxmy5YtO/id0SeHxDk54F/2maJRfkSQTZs2/YwfLCXV1dUHOMN9n1yJfNHHrCJTFXyR8yEa+hNJ/T7rvlp7ipg6f3XZXwSpfzJKTEy8S+/f4UaHyfDXmd8cTssZvJfISEwXJZkGOLZ3UHZreP6UDaeCCtutqlDNCxWhM9P6nwADAA+CVfjpXEU1AAAAAElFTkSuQmCC"
             alt="Home">
+            <span class="name navbar-brand" href="/" title="Home" rel="home">Vinyl Collection</span>
         </a>
-        <a class="name navbar-brand" href="/" title="Home" rel="home">Vinyl Collection</a>
+        
+        <a class="btn btn-primary" routerLink="create" routerLinkActive="active">Add Album</a>
       </div>
     </div>
-  </div>
+  
 </header>
-
-<div class="mb-5">
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <div class="container-fluid">
-      <a class="btn btn-primary" routerLink="create" routerLinkActive="active">Add Album</a>
-
-    </div>
-  </nav>
-</div>
 
 <div class="container">
   <router-outlet></router-outlet>

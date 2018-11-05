@@ -24,34 +24,38 @@
 
 <!--<a (click)="deleteAlbum(album._id)"  class="">Delete</a>-->
 
-<mat-form-field>
-  <input matInput (keyup)="applyFilter($event.target.value)" placeholder="Filter" [(ngModel)]="searchValue">
-</mat-form-field>
+<div class="form-top">
+  <div class="form-top-left">
+    <mat-form-field>
+      <input matInput (keyup)="applyFilter($event.target.value)" placeholder="Filter" [(ngModel)]="searchValue">
+    </mat-form-field>
 
-<mat-form-field>
-  <mat-select placeholder="Genre" (selectionChange)="applyFilter()" [(value)]="selectedGenre">
-    <mat-option>- Any -</mat-option>
-    <mat-option *ngFor="let genre of genres" [value]="genre">
-      {{genre}}
-    </mat-option>
-  </mat-select>
-</mat-form-field>
+    <mat-form-field>
+      <mat-select placeholder="Genre" (selectionChange)="applyFilter()" [(value)]="selectedGenre">
+        <mat-option>- Any -</mat-option>
+        <mat-option *ngFor="let genre of genres" [value]="genre">
+          {{genre}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
 
-<mat-form-field>
-  <mat-select placeholder="Decade" (selectionChange)="applyFilter()" [(value)]="selectedDecade">
-    <mat-option>- Any -</mat-option>
-    <mat-option *ngFor="let decade of decades" [value]="decade">
-      {{decade}}
-    </mat-option>
-  </mat-select>
-</mat-form-field>
+    <mat-form-field>
+      <mat-select placeholder="Decade" (selectionChange)="applyFilter()" [(value)]="selectedDecade">
+        <mat-option>- Any -</mat-option>
+        <mat-option *ngFor="let decade of decades" [value]="decade">
+          {{decade}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
 
-<button type="button" (click)="resetFilters()">Reset</button>
+    <button type="button" (click)="resetFilters()">Reset</button>
+  </div>
 
-<div class="total-rows">Results: {{ totalResults }}</div>
+  <div class="total-rows">Results: {{ totalResults }}</div>
+</div>
 
 <div class="mat-elevation-z8">
-  <table mat-table [dataSource]="dataSource" class="mat-elevation-z8" style="width: 100%;">
+  <table mat-table [dataSource]="dataSource" class="" style="width: 100%;">
 
     <ng-container matColumnDef="title">
       <th mat-header-cell *matHeaderCellDef>Album Title</th>
@@ -82,5 +86,5 @@
 
 
   </table>
-  <mat-paginator showFirstLastButtons></mat-paginator>
+  <mat-paginator [length]="100" [pageSize]="50" showFirstLastButtons></mat-paginator>
 </div>

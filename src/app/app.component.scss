@@ -3,15 +3,33 @@
 
 body {
   -webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
+  -moz-osx-font-smoothing: grayscale;
+  padding-bottom: 20px;
+}
+
+.navbar {
+  display: block;
+}
+
+.navbar-brand {
+  margin: 0;
+  padding: 0;
 }
 
 .region-navigation {
+  display: flex;
+  justify-content: space-between;
   a {
     vertical-align: middle;
   }
 
   .logo {
-    margin-right: 10px;
+    display: flex;
+    align-items: center;
+
+    img {
+      margin-right: 10px;
+    }
+    
   }
 }

@@ -52,6 +52,9 @@ export class IndexComponent implements OnInit {
 
   applyFilter(filterValue?: string) {
 
+    // w/o this the filters retrun nothing unless on first page
+    this.dataSource.paginator.pageIndex = 0;
+
     // Reset dataSource
     this.dataSource.data = this.albumsArray;
 
@@ -65,6 +68,8 @@ export class IndexComponent implements OnInit {
     
     this.filterByGenre();
     this.filterByDecade();
+
+    //console.log(this.dataSource);
 
     this.totalResults = this.dataSource.data.length;
   }
