@@ -3,8 +3,8 @@ import { Component, OnInit, ViewChild, Input } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable, Observer } from 'rxjs';
 import {MatSelect, MatTableDataSource, MatPaginator} from '@angular/material';
-import { Album } from '../Album';
-import { Genre } from '../Album';
+import { Album } from '../album';
+import { Genre } from '../album';
 
 import {DataSource} from '@angular/cdk/collections';
 
